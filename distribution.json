@@ -1,24 +1,24 @@
 {
   "version": "1.0.0",
-  "rss": "https://helios-files.geekcorner.eu.org/rss.xml",
+  "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "1086936373057040395",
-    "smallImageText": "Change me through Nebula",
-    "smallImageKey": "big"
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
   },
   "servers": [
     {
-      "id": "Demo-1.19.4",
-      "name": "Demo (Minecraft 1.19.4)",
-      "description": "Demo Running Minecraft 1.19.4 (Forge v45.0.9)",
-      "icon": "https://helios-files.geekcorner.eu.org/servers/Demo-1.19.4/Demo-1.19.4.png",
-      "version": "1.0.0",
-      "address": "23.139.82.215:25600",
+      "id": "prueba-1.20.1",
+      "name": "prueba (Minecraft 1.20.1)",
+      "description": "prueba Running Minecraft 1.20.1 (Forge v47.3.12)",
+      "icon": null,
+      "version": "1",
+      "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
-        "shortId": "1.19.4 Demo",
-        "largeImageKey": "https://raw.githubusercontent.com/dscalzi/HeliosLauncher/master/build/icon.png",
-        "largeImageText": "forge-vanilla"
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
       "mainServer": false,
       "autoconnect": false,
@@ -31,7 +31,7 @@
           "artifact": {
             "size": 7400,
             "MD5": "c673423fbe022d6e4e8a3f0c7645356c",
-            "url": "http://localhost:8080/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.3.12/lowcodelanguage-1.20.1-47.3.12.jar"
+            "url": "http://23.139.82.215:7534/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.3.12/lowcodelanguage-1.20.1-47.3.12.jar"
           },
           "subModules": [
             {
@@ -41,7 +41,7 @@
               "artifact": {
                 "size": 16624,
                 "MD5": "03a2952855c972936b345832f594621f",
-                "url": "http://localhost:8080/repo/versions/1.20.1-forge-47.3.12/1.20.1-forge-47.3.12.json"
+                "url": "http://23.139.82.215:7534/repo/versions/1.20.1-forge-47.3.12/1.20.1-forge-47.3.12.json"
               }
             },
             {
@@ -52,7 +52,7 @@
               "artifact": {
                 "size": 118579,
                 "MD5": "0cb45a85af1cf03c0e827131b629821e",
-                "url": "http://localhost:8080/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.3.12/fmlcore-1.20.1-47.3.12.jar"
+                "url": "http://23.139.82.215:7534/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.3.12/fmlcore-1.20.1-47.3.12.jar"
               },
               "subModules": []
             },
@@ -64,7 +64,7 @@
               "artifact": {
                 "size": 16856,
                 "MD5": "5375d8482539b6201f6950df9e2f7a01",
-                "url": "http://localhost:8080/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.3.12/javafmllanguage-1.20.1-47.3.12.jar"
+                "url": "http://23.139.82.215:7534/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.3.12/javafmllanguage-1.20.1-47.3.12.jar"
               },
               "subModules": []
             },
@@ -76,7 +76,7 @@
               "artifact": {
                 "size": 5000,
                 "MD5": "7672cf521b5aed45f100877110f5cca6",
-                "url": "http://localhost:8080/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.3.12/mclanguage-1.20.1-47.3.12.jar"
+                "url": "http://23.139.82.215:7534/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.3.12/mclanguage-1.20.1-47.3.12.jar"
               },
               "subModules": []
             },
@@ -88,7 +88,7 @@
               "artifact": {
                 "size": 2760843,
                 "MD5": "406f4944b354f354e3a174c987d0fed1",
-                "url": "http://localhost:8080/repo/lib/net/minecraftforge/forge/1.20.1-47.3.12/forge-1.20.1-47.3.12-universal.jar"
+                "url": "http://23.139.82.215:7534/repo/lib/net/minecraftforge/forge/1.20.1-47.3.12/forge-1.20.1-47.3.12-universal.jar"
               },
               "subModules": []
             },
@@ -100,7 +100,7 @@
               "artifact": {
                 "size": 4793703,
                 "MD5": "0a7a4f989ebec81b77033afcd1b97028",
-                "url": "http://localhost:8080/repo/lib/net/minecraftforge/forge/1.20.1-47.3.12/forge-1.20.1-47.3.12-client.jar"
+                "url": "http://23.139.82.215:7534/repo/lib/net/minecraftforge/forge/1.20.1-47.3.12/forge-1.20.1-47.3.12-client.jar"
               },
               "subModules": []
             },
@@ -112,7 +112,7 @@
               "artifact": {
                 "size": 18842082,
                 "MD5": "8bfacfba4f54cda741019756165c5ecf",
-                "url": "http://localhost:8080/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
+                "url": "http://23.139.82.215:7534/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
               },
               "subModules": []
             },
@@ -124,7 +124,7 @@
               "artifact": {
                 "size": 12592249,
                 "MD5": "28edebec7b5a007bc9961ee9bab4d764",
-                "url": "http://localhost:8080/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar"
+                "url": "http://23.139.82.215:7534/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar"
               },
               "subModules": []
             },
@@ -136,7 +136,7 @@
               "artifact": {
                 "size": 10436626,
                 "MD5": "da6bb1a2c23108392fd6c103da40867c",
-                "url": "http://localhost:8080/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
+                "url": "http://23.139.82.215:7534/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
               },
               "subModules": []
             },
@@ -147,7 +147,7 @@
               "artifact": {
                 "size": 88749,
                 "MD5": "d9ff48d1c68388270388b803fa42611e",
-                "url": "http://localhost:8080/repo/lib/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar"
+                "url": "http://23.139.82.215:7534/repo/lib/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar"
               }
             },
             {
@@ -157,7 +157,7 @@
               "artifact": {
                 "size": 126093,
                 "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "url": "http://23.139.82.215:7534/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
               }
             },
             {
@@ -167,7 +167,7 @@
               "artifact": {
                 "size": 73459,
                 "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "url": "http://23.139.82.215:7534/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
               }
             },
             {
@@ -177,7 +177,7 @@
               "artifact": {
                 "size": 51939,
                 "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "url": "http://23.139.82.215:7534/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
               }
             },
             {
@@ -187,7 +187,7 @@
               "artifact": {
                 "size": 94519,
                 "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "url": "http://23.139.82.215:7534/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
               }
             },
             {
@@ -197,7 +197,7 @@
               "artifact": {
                 "size": 35126,
                 "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "url": "http://23.139.82.215:7534/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
               }
             },
             {
@@ -207,7 +207,7 @@
               "artifact": {
                 "size": 77756,
                 "MD5": "f0d3533f9437ba4428eaee9f28f7ecd9",
-                "url": "http://localhost:8080/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
+                "url": "http://23.139.82.215:7534/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
               }
             },
             {
@@ -217,7 +217,7 @@
               "artifact": {
                 "size": 337868,
                 "MD5": "0dcc4b860d5d8d2852ab94d58c56ca2d",
-                "url": "http://localhost:8080/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
+                "url": "http://23.139.82.215:7534/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
               }
             },
             {
@@ -227,7 +227,7 @@
               "artifact": {
                 "size": 53985,
                 "MD5": "2a6245210b446b2144071e71ca13432b",
-                "url": "http://localhost:8080/repo/lib/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar"
+                "url": "http://23.139.82.215:7534/repo/lib/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar"
               }
             },
             {
@@ -237,7 +237,7 @@
               "artifact": {
                 "size": 29831,
                 "MD5": "bd34d20287dc95201fe9475a8bbc2540",
-                "url": "http://localhost:8080/repo/lib/net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar"
+                "url": "http://23.139.82.215:7534/repo/lib/net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar"
               }
             },
             {
@@ -247,7 +247,7 @@
               "artifact": {
                 "size": 31321,
                 "MD5": "5bbacebd88d19aa6ce9f7563d1aac3f5",
-                "url": "http://localhost:8080/repo/lib/net/minecraftforge/coremods/5.2.1/coremods-5.2.1.jar"
+                "url": "http://23.139.82.215:7534/repo/lib/net/minecraftforge/coremods/5.2.1/coremods-5.2.1.jar"
               }
             },
             {
@@ -257,7 +257,7 @@
               "artifact": {
                 "size": 130343,
                 "MD5": "07507d18d72661f8ae6a5da75bbf35be",
-                "url": "http://localhost:8080/repo/lib/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar"
+                "url": "http://23.139.82.215:7534/repo/lib/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar"
               }
             },
             {
@@ -267,7 +267,7 @@
               "artifact": {
                 "size": 2834,
                 "MD5": "2d1016ebe4c1a63dd50a59d26bd12db1",
-                "url": "http://localhost:8080/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
+                "url": "http://23.139.82.215:7534/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
               }
             },
             {
@@ -277,7 +277,7 @@
               "artifact": {
                 "size": 2572,
                 "MD5": "8df9c5bf87d004ddb884eca99bc2a4b1",
-                "url": "http://localhost:8080/repo/lib/net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar"
+                "url": "http://23.139.82.215:7534/repo/lib/net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar"
               }
             },
             {
@@ -287,7 +287,7 @@
               "artifact": {
                 "size": 199834,
                 "MD5": "d83ab07267e402131fb93d899a57f5cd",
-                "url": "http://localhost:8080/repo/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
+                "url": "http://23.139.82.215:7534/repo/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
               }
             },
             {
@@ -297,7 +297,7 @@
               "artifact": {
                 "size": 31816,
                 "MD5": "bc95d0709fff2164b01fd09fbc988be8",
-                "url": "http://localhost:8080/repo/lib/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar"
+                "url": "http://23.139.82.215:7534/repo/lib/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar"
               }
             },
             {
@@ -307,7 +307,7 @@
               "artifact": {
                 "size": 58077,
                 "MD5": "ce473b0d9fbfd10fe147f03fe8707d67",
-                "url": "http://localhost:8080/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
+                "url": "http://23.139.82.215:7534/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
               }
             },
             {
@@ -317,7 +317,7 @@
               "artifact": {
                 "size": 18281,
                 "MD5": "d4a375bf382f726cf1a650ccb38a736c",
-                "url": "http://localhost:8080/repo/lib/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
+                "url": "http://23.139.82.215:7534/repo/lib/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
               }
             },
             {
@@ -327,7 +327,7 @@
               "artifact": {
                 "size": 15977,
                 "MD5": "679363fa893293791e55a21f81342f87",
-                "url": "http://localhost:8080/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
+                "url": "http://23.139.82.215:7534/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
               }
             },
             {
@@ -337,7 +337,7 @@
               "artifact": {
                 "size": 150765,
                 "MD5": "a2e7b012cd9802f83321187409174a94",
-                "url": "http://localhost:8080/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
+                "url": "http://23.139.82.215:7534/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
               }
             },
             {
@@ -347,7 +347,7 @@
               "artifact": {
                 "size": 211712,
                 "MD5": "3c52be5ab5e3847be6e62269de924cb0",
-                "url": "http://localhost:8080/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
+                "url": "http://23.139.82.215:7534/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
               }
             },
             {
@@ -357,7 +357,7 @@
               "artifact": {
                 "size": 1089277,
                 "MD5": "19b3a2ae9e445a6e626fd7d1648cfcb8",
-                "url": "http://localhost:8080/repo/lib/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar"
+                "url": "http://23.139.82.215:7534/repo/lib/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar"
               }
             },
             {
@@ -367,7 +367,7 @@
               "artifact": {
                 "size": 2167292,
                 "MD5": "a9b3360e6a486cf62c1952c7816b7d97",
-                "url": "http://localhost:8080/repo/lib/org/openjdk/nashorn/nashorn-core/15.4/nashorn-core-15.4.jar"
+                "url": "http://23.139.82.215:7534/repo/lib/org/openjdk/nashorn/nashorn-core/15.4/nashorn-core-15.4.jar"
               }
             },
             {
@@ -377,7 +377,7 @@
               "artifact": {
                 "size": 17374,
                 "MD5": "2bb6cbe0e6c6fbcd8f92d2e6b1ea678e",
-                "url": "http://localhost:8080/repo/lib/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar"
+                "url": "http://23.139.82.215:7534/repo/lib/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar"
               }
             },
             {
@@ -387,7 +387,7 @@
               "artifact": {
                 "size": 15895,
                 "MD5": "9633546d299d4282ca68d10582be1c8f",
-                "url": "http://localhost:8080/repo/lib/net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar"
+                "url": "http://23.139.82.215:7534/repo/lib/net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar"
               }
             },
             {
@@ -397,7 +397,7 @@
               "artifact": {
                 "size": 8284,
                 "MD5": "48f5255aa337344c467c0150d347813d",
-                "url": "http://localhost:8080/repo/lib/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
+                "url": "http://23.139.82.215:7534/repo/lib/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
               }
             },
             {
@@ -407,7 +407,7 @@
               "artifact": {
                 "size": 32195,
                 "MD5": "c2be1a88b63eb1b58b00ab6e498cd97d",
-                "url": "http://localhost:8080/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
+                "url": "http://23.139.82.215:7534/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
               }
             },
             {
@@ -417,7 +417,7 @@
               "artifact": {
                 "size": 265346,
                 "MD5": "77bab0efbc729763d18aa34fbeb2ba9b",
-                "url": "http://localhost:8080/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.3.12/fmlloader-1.20.1-47.3.12.jar"
+                "url": "http://23.139.82.215:7534/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.3.12/fmlloader-1.20.1-47.3.12.jar"
               }
             },
             {
@@ -427,7 +427,7 @@
               "artifact": {
                 "size": 170425,
                 "MD5": "3aeb68d1d5d264bd124e32331237b1a3",
-                "url": "http://localhost:8080/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.3.12/fmlearlydisplay-1.20.1-47.3.12.jar"
+                "url": "http://23.139.82.215:7534/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.3.12/fmlearlydisplay-1.20.1-47.3.12.jar"
               }
             }
           ]
@@ -438,7 +438,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 47428,
-            "url": "http://localhost:8080/servers/prueba-1.20.1/forgemods/required/appleskin-forge-mc1.20.1-2.5.1.jar",
+            "url": "http://23.139.82.215:7534/servers/prueba-1.20.1/forgemods/required/appleskin-forge-mc1.20.1-2.5.1.jar",
             "MD5": "dae63cea9c951dda542a4005ceef3953"
           }
         },
@@ -448,7 +448,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 580602,
-            "url": "http://localhost:8080/servers/prueba-1.20.1/forgemods/required/architectury-9.2.14-forge.jar",
+            "url": "http://23.139.82.215:7534/servers/prueba-1.20.1/forgemods/required/architectury-9.2.14-forge.jar",
             "MD5": "76b40d407b6bf0257dd1dab6d3d395d5"
           }
         },
@@ -458,7 +458,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 468517,
-            "url": "http://localhost:8080/servers/prueba-1.20.1/forgemods/required/BetterF3-7.0.2-Forge-1.20.1.jar",
+            "url": "http://23.139.82.215:7534/servers/prueba-1.20.1/forgemods/required/BetterF3-7.0.2-Forge-1.20.1.jar",
             "MD5": "7411ae023390cf6b148f05a6b685279f"
           }
         },
@@ -468,7 +468,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1181413,
-            "url": "http://localhost:8080/servers/prueba-1.20.1/forgemods/required/cloth-config-11.1.136-forge.jar",
+            "url": "http://23.139.82.215:7534/servers/prueba-1.20.1/forgemods/required/cloth-config-11.1.136-forge.jar",
             "MD5": "ca5de5acbcb4a30c010aa6953bd7ef53"
           }
         },
@@ -478,7 +478,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1153866,
-            "url": "http://localhost:8080/servers/prueba-1.20.1/forgemods/required/CreativeCore_FORGE_v2.12.27_mc1.20.1.jar",
+            "url": "http://23.139.82.215:7534/servers/prueba-1.20.1/forgemods/required/CreativeCore_FORGE_v2.12.27_mc1.20.1.jar",
             "MD5": "d8d1ab402048d9d73e9dafdbb51b0183"
           }
         },
@@ -488,7 +488,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 294792,
-            "url": "http://localhost:8080/servers/prueba-1.20.1/forgemods/required/eatinganimation-1.20.1-5.1.0.jar",
+            "url": "http://23.139.82.215:7534/servers/prueba-1.20.1/forgemods/required/eatinganimation-1.20.1-5.1.0.jar",
             "MD5": "fed01f18bc67d277e1ae9d4694d18659"
           }
         },
@@ -498,7 +498,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1320675,
-            "url": "http://localhost:8080/servers/prueba-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
+            "url": "http://23.139.82.215:7534/servers/prueba-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
             "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
           }
         },
@@ -508,7 +508,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4726281,
-            "url": "http://localhost:8080/servers/prueba-1.20.1/forgemods/required/EnhancedVisuals_FORGE_v1.8.1_mc1.20.1.jar",
+            "url": "http://23.139.82.215:7534/servers/prueba-1.20.1/forgemods/required/EnhancedVisuals_FORGE_v1.8.1_mc1.20.1.jar",
             "MD5": "de2418c4becb5e0030d3c8d35659d101"
           }
         },
@@ -518,7 +518,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2897882,
-            "url": "http://localhost:8080/servers/prueba-1.20.1/forgemods/required/fancymenu_forge_3.3.2_MC_1.20.1.jar",
+            "url": "http://23.139.82.215:7534/servers/prueba-1.20.1/forgemods/required/fancymenu_forge_3.3.2_MC_1.20.1.jar",
             "MD5": "a362aedda7626827587c445d2e28d3f5"
           }
         },
@@ -528,7 +528,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 791199,
-            "url": "http://localhost:8080/servers/prueba-1.20.1/forgemods/required/ftb-library-forge-2001.2.6.jar",
+            "url": "http://23.139.82.215:7534/servers/prueba-1.20.1/forgemods/required/ftb-library-forge-2001.2.6.jar",
             "MD5": "6db6fb2d94817d17af7f057b99dc8ac7"
           }
         },
@@ -538,7 +538,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1183769,
-            "url": "http://localhost:8080/servers/prueba-1.20.1/forgemods/required/ftb-quests-forge-2001.4.9.jar",
+            "url": "http://23.139.82.215:7534/servers/prueba-1.20.1/forgemods/required/ftb-quests-forge-2001.4.9.jar",
             "MD5": "7bfa68ae939f181e7be4dc87485f4332"
           }
         },
@@ -548,7 +548,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 247666,
-            "url": "http://localhost:8080/servers/prueba-1.20.1/forgemods/required/ftb-teams-forge-2001.3.0.jar",
+            "url": "http://23.139.82.215:7534/servers/prueba-1.20.1/forgemods/required/ftb-teams-forge-2001.3.0.jar",
             "MD5": "31acf433df9d13282fa12bd6974c44f9"
           }
         },
@@ -558,7 +558,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 11124968,
-            "url": "http://localhost:8080/servers/prueba-1.20.1/forgemods/required/gml-4.0.9-all.jar",
+            "url": "http://23.139.82.215:7534/servers/prueba-1.20.1/forgemods/required/gml-4.0.9-all.jar",
             "MD5": "09db2f78b7cb67b27dd2b58989bc4947"
           }
         },
@@ -568,7 +568,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 625185,
-            "url": "http://localhost:8080/servers/prueba-1.20.1/forgemods/required/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+            "url": "http://23.139.82.215:7534/servers/prueba-1.20.1/forgemods/required/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
             "MD5": "d69107c593e361e1b7b96733250bd098"
           }
         },
@@ -578,7 +578,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 37178,
-            "url": "http://localhost:8080/servers/prueba-1.20.1/forgemods/required/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+            "url": "http://23.139.82.215:7534/servers/prueba-1.20.1/forgemods/required/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
             "MD5": "6b528d368f7fcbf737df28f2457cdec6"
           }
         },
@@ -588,7 +588,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2831148,
-            "url": "http://localhost:8080/servers/prueba-1.20.1/forgemods/required/oculus-mc1.20.1-1.7.0.jar",
+            "url": "http://23.139.82.215:7534/servers/prueba-1.20.1/forgemods/required/oculus-mc1.20.1-1.7.0.jar",
             "MD5": "45b96133bb46cc61dd9778bd4fca741d"
           }
         },
@@ -598,7 +598,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 141897,
-            "url": "http://localhost:8080/servers/prueba-1.20.1/forgemods/required/WI-Zoom-1.5-MC1.20.1-Forge.jar",
+            "url": "http://23.139.82.215:7534/servers/prueba-1.20.1/forgemods/required/WI-Zoom-1.5-MC1.20.1-Forge.jar",
             "MD5": "754b287265cb26821883f2afcab701ae"
           }
         },
@@ -608,7 +608,7 @@
           "type": "File",
           "artifact": {
             "size": 1361,
-            "url": "http://localhost:8080/servers/prueba-1.20.1/files/config/appleskin-client.toml",
+            "url": "http://23.139.82.215:7534/servers/prueba-1.20.1/files/config/appleskin-client.toml",
             "MD5": "999dd7d912a7eb915c59b1025710ca12",
             "path": "config/appleskin-client.toml"
           }
@@ -619,7 +619,7 @@
           "type": "File",
           "artifact": {
             "size": 427,
-            "url": "http://localhost:8080/servers/prueba-1.20.1/files/config/embeddium-fingerprint.json",
+            "url": "http://23.139.82.215:7534/servers/prueba-1.20.1/files/config/embeddium-fingerprint.json",
             "MD5": "ce20ba8076b31cdab54767420878eeda",
             "path": "config/embeddium-fingerprint.json"
           }
@@ -630,7 +630,7 @@
           "type": "File",
           "artifact": {
             "size": 269,
-            "url": "http://localhost:8080/servers/prueba-1.20.1/files/config/embeddium-mixins.properties",
+            "url": "http://23.139.82.215:7534/servers/prueba-1.20.1/files/config/embeddium-mixins.properties",
             "MD5": "a9176524f816153a7967217b53bb75a1",
             "path": "config/embeddium-mixins.properties"
           }
@@ -641,7 +641,7 @@
           "type": "File",
           "artifact": {
             "size": 852,
-            "url": "http://localhost:8080/servers/prueba-1.20.1/files/config/embeddium-options.json",
+            "url": "http://23.139.82.215:7534/servers/prueba-1.20.1/files/config/embeddium-options.json",
             "MD5": "c0a96a9199ece4278654cf6e1fb2584c",
             "path": "config/embeddium-options.json"
           }
@@ -652,7 +652,7 @@
           "type": "File",
           "artifact": {
             "size": 8145,
-            "url": "http://localhost:8080/servers/prueba-1.20.1/files/config/enhancedvisuals-client.json",
+            "url": "http://23.139.82.215:7534/servers/prueba-1.20.1/files/config/enhancedvisuals-client.json",
             "MD5": "1736f8cb246233af6df98492bb9b77e2",
             "path": "config/enhancedvisuals-client.json"
           }
@@ -663,7 +663,7 @@
           "type": "File",
           "artifact": {
             "size": 26,
-            "url": "http://localhost:8080/servers/prueba-1.20.1/files/config/fancymenu/customizablemenus.txt",
+            "url": "http://23.139.82.215:7534/servers/prueba-1.20.1/files/config/fancymenu/customizablemenus.txt",
             "MD5": "fe5f2f91fcc0653b93634a414aa90cd5",
             "path": "config/fancymenu/customizablemenus.txt"
           }
@@ -674,7 +674,7 @@
           "type": "File",
           "artifact": {
             "size": 51,
-            "url": "http://localhost:8080/servers/prueba-1.20.1/files/config/fancymenu/custom_gui_screens.txt",
+            "url": "http://23.139.82.215:7534/servers/prueba-1.20.1/files/config/fancymenu/custom_gui_screens.txt",
             "MD5": "106e52948415f0879c53304f50783b28",
             "path": "config/fancymenu/custom_gui_screens.txt"
           }
@@ -685,7 +685,7 @@
           "type": "File",
           "artifact": {
             "size": 42,
-            "url": "http://localhost:8080/servers/prueba-1.20.1/files/config/fancymenu/legacy_checklist.txt",
+            "url": "http://23.139.82.215:7534/servers/prueba-1.20.1/files/config/fancymenu/legacy_checklist.txt",
             "MD5": "bc03e01c4f1bf1e24e9b86591baa512b",
             "path": "config/fancymenu/legacy_checklist.txt"
           }
@@ -696,7 +696,7 @@
           "type": "File",
           "artifact": {
             "size": 1798,
-            "url": "http://localhost:8080/servers/prueba-1.20.1/files/config/fancymenu/options.txt",
+            "url": "http://23.139.82.215:7534/servers/prueba-1.20.1/files/config/fancymenu/options.txt",
             "MD5": "e29b5119da47bf3079bbe5424ce1753e",
             "path": "config/fancymenu/options.txt"
           }
@@ -707,7 +707,7 @@
           "type": "File",
           "artifact": {
             "size": 4133,
-            "url": "http://localhost:8080/servers/prueba-1.20.1/files/config/fancymenu/ui_themes/dark.json",
+            "url": "http://23.139.82.215:7534/servers/prueba-1.20.1/files/config/fancymenu/ui_themes/dark.json",
             "MD5": "1fc916f1d20b24c5f0d2d138d19c49a4",
             "path": "config/fancymenu/ui_themes/dark.json"
           }
@@ -718,7 +718,7 @@
           "type": "File",
           "artifact": {
             "size": 4135,
-            "url": "http://localhost:8080/servers/prueba-1.20.1/files/config/fancymenu/ui_themes/light.json",
+            "url": "http://23.139.82.215:7534/servers/prueba-1.20.1/files/config/fancymenu/ui_themes/light.json",
             "MD5": "adfba137b3d62c50a5186a4f6523a72a",
             "path": "config/fancymenu/ui_themes/light.json"
           }
@@ -729,7 +729,7 @@
           "type": "File",
           "artifact": {
             "size": 23,
-            "url": "http://localhost:8080/servers/prueba-1.20.1/files/config/fancymenu/user_variables.db",
+            "url": "http://23.139.82.215:7534/servers/prueba-1.20.1/files/config/fancymenu/user_variables.db",
             "MD5": "458e4f3f673e3fea22fb92bf76fcf912",
             "path": "config/fancymenu/user_variables.db"
           }
@@ -740,7 +740,7 @@
           "type": "File",
           "artifact": {
             "size": 1148,
-            "url": "http://localhost:8080/servers/prueba-1.20.1/files/config/fml.toml",
+            "url": "http://23.139.82.215:7534/servers/prueba-1.20.1/files/config/fml.toml",
             "MD5": "783d5f5e55fc91951e5e234d72980761",
             "path": "config/fml.toml"
           }
@@ -751,7 +751,7 @@
           "type": "File",
           "artifact": {
             "size": 1399,
-            "url": "http://localhost:8080/servers/prueba-1.20.1/files/config/forge-client.toml",
+            "url": "http://23.139.82.215:7534/servers/prueba-1.20.1/files/config/forge-client.toml",
             "MD5": "17ce4f44d2b8e9186512d7bc94501b18",
             "path": "config/forge-client.toml"
           }
@@ -762,7 +762,7 @@
           "type": "File",
           "artifact": {
             "size": 121,
-            "url": "http://localhost:8080/servers/prueba-1.20.1/files/config/gml-script-mods.toml",
+            "url": "http://23.139.82.215:7534/servers/prueba-1.20.1/files/config/gml-script-mods.toml",
             "MD5": "2bfd302a360d40fefcdbaf96eec582a5",
             "path": "config/gml-script-mods.toml"
           }
@@ -773,7 +773,7 @@
           "type": "File",
           "artifact": {
             "size": 369,
-            "url": "http://localhost:8080/servers/prueba-1.20.1/files/config/konkrete/locals/de_de.local",
+            "url": "http://23.139.82.215:7534/servers/prueba-1.20.1/files/config/konkrete/locals/de_de.local",
             "MD5": "3aac3df2519057d2305f894c37771e30",
             "path": "config/konkrete/locals/de_de.local"
           }
@@ -784,7 +784,7 @@
           "type": "File",
           "artifact": {
             "size": 426,
-            "url": "http://localhost:8080/servers/prueba-1.20.1/files/config/konkrete/locals/en_us.local",
+            "url": "http://23.139.82.215:7534/servers/prueba-1.20.1/files/config/konkrete/locals/en_us.local",
             "MD5": "56c7ccaa193ba73c0d5c50aff28bb807",
             "path": "config/konkrete/locals/en_us.local"
           }
@@ -795,7 +795,7 @@
           "type": "File",
           "artifact": {
             "size": 313,
-            "url": "http://localhost:8080/servers/prueba-1.20.1/files/config/konkrete/locals/pl_pl.local",
+            "url": "http://23.139.82.215:7534/servers/prueba-1.20.1/files/config/konkrete/locals/pl_pl.local",
             "MD5": "c1f5aa5c2d2ac414f75f0ec3cab3b9c8",
             "path": "config/konkrete/locals/pl_pl.local"
           }
@@ -806,7 +806,7 @@
           "type": "File",
           "artifact": {
             "size": 322,
-            "url": "http://localhost:8080/servers/prueba-1.20.1/files/config/konkrete/locals/pt_br.local",
+            "url": "http://23.139.82.215:7534/servers/prueba-1.20.1/files/config/konkrete/locals/pt_br.local",
             "MD5": "2d055da094c115b94f0e4373a2e06ebe",
             "path": "config/konkrete/locals/pt_br.local"
           }
@@ -817,7 +817,7 @@
           "type": "File",
           "artifact": {
             "size": 254,
-            "url": "http://localhost:8080/servers/prueba-1.20.1/files/config/oculus.properties",
+            "url": "http://23.139.82.215:7534/servers/prueba-1.20.1/files/config/oculus.properties",
             "MD5": "4be934a1050d5e1ded527245cd792557",
             "path": "config/oculus.properties"
           }
@@ -828,7 +828,7 @@
           "type": "File",
           "artifact": {
             "size": 192,
-            "url": "http://localhost:8080/servers/prueba-1.20.1/files/config/sidebar_buttons.json",
+            "url": "http://23.139.82.215:7534/servers/prueba-1.20.1/files/config/sidebar_buttons.json",
             "MD5": "50226dcf1b68c34a0daaed60ed176f55",
             "path": "config/sidebar_buttons.json"
           }
