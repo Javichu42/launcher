@@ -8,11 +8,11 @@
   },
   "servers": [
     {
-      "id": "nexsafio-1.20.1",
-      "name": "nexsafio (Minecraft 1.20.1)",
-      "description": "nexsafio Running Minecraft 1.20.1 (Forge v47.3.11)",
+      "id": "prueba-1.20.1",
+      "name": "prueba (Minecraft 1.20.1)",
+      "description": "prueba Running Minecraft 1.20.1 (Forge v47.3.12)",
       "icon": null,
-      "version": "1.0.0",
+      "version": "1",
       "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -24,83 +24,83 @@
       "autoconnect": false,
       "modules": [
         {
-          "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.3.11",
+          "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.3.12",
           "name": "Minecraft Forge (lowcodelanguage)",
           "type": "ForgeHosted",
           "classpath": true,
           "artifact": {
-            "size": 7398,
-            "MD5": "be7e779947ee43580822487845b6f8ed",
-            "url": "http://localhost:8080/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.3.11/lowcodelanguage-1.20.1-47.3.11.jar"
+            "size": 7400,
+            "MD5": "c673423fbe022d6e4e8a3f0c7645356c",
+            "url": "http://localhost:8080/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.3.12/lowcodelanguage-1.20.1-47.3.12.jar"
           },
           "subModules": [
             {
-              "id": "1.20.1-47.3.11",
+              "id": "1.20.1-47.3.12",
               "name": "Minecraft Forge (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 16554,
-                "MD5": "d8c77cb1c2c3b8aeed69d04150d2b1ea",
-                "url": "http://localhost:8080/repo/versions/1.20.1-forge-47.3.11/1.20.1-forge-47.3.11.json"
+                "size": 16624,
+                "MD5": "03a2952855c972936b345832f594621f",
+                "url": "http://localhost:8080/repo/versions/1.20.1-forge-47.3.12/1.20.1-forge-47.3.12.json"
               }
             },
             {
-              "id": "net.minecraftforge:fmlcore:1.20.1-47.3.11",
+              "id": "net.minecraftforge:fmlcore:1.20.1-47.3.12",
               "name": "Minecraft Forge (fmlcore)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 118576,
-                "MD5": "4d5269f3107b9016bd643630d433a8d5",
-                "url": "http://localhost:8080/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.3.11/fmlcore-1.20.1-47.3.11.jar"
+                "size": 118579,
+                "MD5": "0cb45a85af1cf03c0e827131b629821e",
+                "url": "http://localhost:8080/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.3.12/fmlcore-1.20.1-47.3.12.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:javafmllanguage:1.20.1-47.3.11",
+              "id": "net.minecraftforge:javafmllanguage:1.20.1-47.3.12",
               "name": "Minecraft Forge (javafmllanguage)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 16854,
-                "MD5": "6c984dfba221bba9b61e602d7d5b0e2b",
-                "url": "http://localhost:8080/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.3.11/javafmllanguage-1.20.1-47.3.11.jar"
+                "size": 16856,
+                "MD5": "5375d8482539b6201f6950df9e2f7a01",
+                "url": "http://localhost:8080/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.3.12/javafmllanguage-1.20.1-47.3.12.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:mclanguage:1.20.1-47.3.11",
+              "id": "net.minecraftforge:mclanguage:1.20.1-47.3.12",
               "name": "Minecraft Forge (mclanguage)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 4998,
-                "MD5": "2ac1657eb1e746a043c40cb0e801476b",
-                "url": "http://localhost:8080/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.3.11/mclanguage-1.20.1-47.3.11.jar"
+                "size": 5000,
+                "MD5": "7672cf521b5aed45f100877110f5cca6",
+                "url": "http://localhost:8080/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.3.12/mclanguage-1.20.1-47.3.12.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:forge:1.20.1-47.3.11:universal",
+              "id": "net.minecraftforge:forge:1.20.1-47.3.12:universal",
               "name": "Minecraft Forge (universal jar)",
               "type": "Library",
               "classpath": false,
               "artifact": {
-                "size": 2753568,
-                "MD5": "ed0e7f0cadc416dd1a2f0c2f13e41cbc",
-                "url": "http://localhost:8080/repo/lib/net/minecraftforge/forge/1.20.1-47.3.11/forge-1.20.1-47.3.11-universal.jar"
+                "size": 2760843,
+                "MD5": "406f4944b354f354e3a174c987d0fed1",
+                "url": "http://localhost:8080/repo/lib/net/minecraftforge/forge/1.20.1-47.3.12/forge-1.20.1-47.3.12-universal.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:forge:1.20.1-47.3.11:client",
+              "id": "net.minecraftforge:forge:1.20.1-47.3.12:client",
               "name": "Minecraft Forge (client jar)",
               "type": "Library",
               "classpath": false,
               "artifact": {
                 "size": 4793703,
                 "MD5": "0a7a4f989ebec81b77033afcd1b97028",
-                "url": "http://localhost:8080/repo/lib/net/minecraftforge/forge/1.20.1-47.3.11/forge-1.20.1-47.3.11-client.jar"
+                "url": "http://localhost:8080/repo/lib/net/minecraftforge/forge/1.20.1-47.3.12/forge-1.20.1-47.3.12-client.jar"
               },
               "subModules": []
             },
@@ -151,53 +151,53 @@
               }
             },
             {
-              "id": "org.ow2.asm:asm:9.7",
+              "id": "org.ow2.asm:asm:9.7.1",
               "name": "Minecraft Forge (asm)",
               "type": "Library",
               "artifact": {
-                "size": 125428,
-                "MD5": "3957b18bf02a62edcb6726d074b90b08",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm/9.7/asm-9.7.jar"
+                "size": 126093,
+                "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
+                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-commons:9.7",
+              "id": "org.ow2.asm:asm-commons:9.7.1",
               "name": "Minecraft Forge (asm-commons)",
               "type": "Library",
               "artifact": {
-                "size": 73426,
-                "MD5": "53a46610df6a8dbc4ff85b8fd4cdea66",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-commons/9.7/asm-commons-9.7.jar"
+                "size": 73459,
+                "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
+                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-tree:9.7",
+              "id": "org.ow2.asm:asm-tree:9.7.1",
               "name": "Minecraft Forge (asm-tree)",
               "type": "Library",
               "artifact": {
-                "size": 51934,
-                "MD5": "ea5cad3e0cbd2520688e4b0b5c4218e7",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-tree/9.7/asm-tree-9.7.jar"
+                "size": 51939,
+                "MD5": "e85029f613b6469989cc7cf53fe06b74",
+                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-util:9.7",
+              "id": "org.ow2.asm:asm-util:9.7.1",
               "name": "Minecraft Forge (asm-util)",
               "type": "Library",
               "artifact": {
-                "size": 93784,
-                "MD5": "e7d6e20888e6fd99605f4c5fe1dfa8b0",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-util/9.7/asm-util-9.7.jar"
+                "size": 94519,
+                "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
+                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-analysis:9.7",
+              "id": "org.ow2.asm:asm-analysis:9.7.1",
               "name": "Minecraft Forge (asm-analysis)",
               "type": "Library",
               "artifact": {
-                "size": 34776,
-                "MD5": "910ac9c691023f1a9ff33c413ae9fbf6",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-analysis/9.7/asm-analysis-9.7.jar"
+                "size": 35126,
+                "MD5": "4cd9e7178dfb85371bba3077e40cd514",
+                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
               }
             },
             {
@@ -241,13 +241,13 @@
               }
             },
             {
-              "id": "net.minecraftforge:coremods:5.1.6",
+              "id": "net.minecraftforge:coremods:5.2.1",
               "name": "Minecraft Forge (coremods)",
               "type": "Library",
               "artifact": {
-                "size": 24124,
-                "MD5": "4b4fe7e512819804660d621bf11c7381",
-                "url": "http://localhost:8080/repo/lib/net/minecraftforge/coremods/5.1.6/coremods-5.1.6.jar"
+                "size": 31321,
+                "MD5": "5bbacebd88d19aa6ce9f7563d1aac3f5",
+                "url": "http://localhost:8080/repo/lib/net/minecraftforge/coremods/5.2.1/coremods-5.2.1.jar"
               }
             },
             {
@@ -361,13 +361,13 @@
               }
             },
             {
-              "id": "org.openjdk.nashorn:nashorn-core:15.3",
+              "id": "org.openjdk.nashorn:nashorn-core:15.4",
               "name": "Minecraft Forge (nashorn-core)",
               "type": "Library",
               "artifact": {
-                "size": 2167288,
-                "MD5": "91e98c20afa1090c344229ce28b4c53f",
-                "url": "http://localhost:8080/repo/lib/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar"
+                "size": 2167292,
+                "MD5": "a9b3360e6a486cf62c1952c7816b7d97",
+                "url": "http://localhost:8080/repo/lib/org/openjdk/nashorn/nashorn-core/15.4/nashorn-core-15.4.jar"
               }
             },
             {
@@ -411,26 +411,427 @@
               }
             },
             {
-              "id": "net.minecraftforge:fmlloader:1.20.1-47.3.11",
+              "id": "net.minecraftforge:fmlloader:1.20.1-47.3.12",
               "name": "Minecraft Forge (fmlloader)",
               "type": "Library",
               "artifact": {
-                "size": 264939,
-                "MD5": "230757a2a547f38bb05e8b3a94f29096",
-                "url": "http://localhost:8080/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.3.11/fmlloader-1.20.1-47.3.11.jar"
+                "size": 265346,
+                "MD5": "77bab0efbc729763d18aa34fbeb2ba9b",
+                "url": "http://localhost:8080/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.3.12/fmlloader-1.20.1-47.3.12.jar"
               }
             },
             {
-              "id": "net.minecraftforge:fmlearlydisplay:1.20.1-47.3.11",
+              "id": "net.minecraftforge:fmlearlydisplay:1.20.1-47.3.12",
               "name": "Minecraft Forge (fmlearlydisplay)",
               "type": "Library",
               "artifact": {
-                "size": 170424,
-                "MD5": "08eab9782e369db8109b21edf61a7677",
-                "url": "http://localhost:8080/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.3.11/fmlearlydisplay-1.20.1-47.3.11.jar"
+                "size": 170425,
+                "MD5": "3aeb68d1d5d264bd124e32331237b1a3",
+                "url": "http://localhost:8080/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.3.12/fmlearlydisplay-1.20.1-47.3.12.jar"
               }
             }
           ]
+        },
+        {
+          "id": "squeek.appleskin:appleskin:2.5.1+mc1.20.1@jar",
+          "name": "AppleSkin",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 47428,
+            "url": "http://localhost:8080/servers/prueba-1.20.1/forgemods/required/appleskin-forge-mc1.20.1-2.5.1.jar",
+            "MD5": "dae63cea9c951dda542a4005ceef3953"
+          }
+        },
+        {
+          "id": "dev.architectury:architectury:9.2.14@jar",
+          "name": "Architectury",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 580602,
+            "url": "http://localhost:8080/servers/prueba-1.20.1/forgemods/required/architectury-9.2.14-forge.jar",
+            "MD5": "76b40d407b6bf0257dd1dab6d3d395d5"
+          }
+        },
+        {
+          "id": "me.treyruffy:betterf3:7.0.2@jar",
+          "name": "BetterF3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 468517,
+            "url": "http://localhost:8080/servers/prueba-1.20.1/forgemods/required/BetterF3-7.0.2-Forge-1.20.1.jar",
+            "MD5": "7411ae023390cf6b148f05a6b685279f"
+          }
+        },
+        {
+          "id": "me.shedaniel.clothconfig:cloth_config:11.1.136@jar",
+          "name": "Cloth Config v10 API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1181413,
+            "url": "http://localhost:8080/servers/prueba-1.20.1/forgemods/required/cloth-config-11.1.136-forge.jar",
+            "MD5": "ca5de5acbcb4a30c010aa6953bd7ef53"
+          }
+        },
+        {
+          "id": "team.creative:creativecore:2.12.27@jar",
+          "name": "CreativeCore",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1153866,
+            "url": "http://localhost:8080/servers/prueba-1.20.1/forgemods/required/CreativeCore_FORGE_v2.12.27_mc1.20.1.jar",
+            "MD5": "d8d1ab402048d9d73e9dafdbb51b0183"
+          }
+        },
+        {
+          "id": "generated.forgemod:eatinganimation:5.1.0@jar",
+          "name": "Eating Animation",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 294792,
+            "url": "http://localhost:8080/servers/prueba-1.20.1/forgemods/required/eatinganimation-1.20.1-5.1.0.jar",
+            "MD5": "fed01f18bc67d277e1ae9d4694d18659"
+          }
+        },
+        {
+          "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.31+mc1.20.1@jar",
+          "name": "Embeddium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1320675,
+            "url": "http://localhost:8080/servers/prueba-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
+            "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
+          }
+        },
+        {
+          "id": "team.creative:enhancedvisuals:1.8.1@jar",
+          "name": "EnhancedVisuals",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4726281,
+            "url": "http://localhost:8080/servers/prueba-1.20.1/forgemods/required/EnhancedVisuals_FORGE_v1.8.1_mc1.20.1.jar",
+            "MD5": "de2418c4becb5e0030d3c8d35659d101"
+          }
+        },
+        {
+          "id": "de.keksuccino:fancymenu:3.3.2@jar",
+          "name": "FancyMenu",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2897882,
+            "url": "http://localhost:8080/servers/prueba-1.20.1/forgemods/required/fancymenu_forge_3.3.2_MC_1.20.1.jar",
+            "MD5": "a362aedda7626827587c445d2e28d3f5"
+          }
+        },
+        {
+          "id": "dev.ftb.mods:ftblibrary:2001.2.6@jar",
+          "name": "FTB Library",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 791199,
+            "url": "http://localhost:8080/servers/prueba-1.20.1/forgemods/required/ftb-library-forge-2001.2.6.jar",
+            "MD5": "6db6fb2d94817d17af7f057b99dc8ac7"
+          }
+        },
+        {
+          "id": "dev.ftb.mods:ftbquests:2001.4.9@jar",
+          "name": "FTB Quests",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1183769,
+            "url": "http://localhost:8080/servers/prueba-1.20.1/forgemods/required/ftb-quests-forge-2001.4.9.jar",
+            "MD5": "7bfa68ae939f181e7be4dc87485f4332"
+          }
+        },
+        {
+          "id": "dev.ftb.mods:ftbteams:2001.3.0@jar",
+          "name": "FTB Teams",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 247666,
+            "url": "http://localhost:8080/servers/prueba-1.20.1/forgemods/required/ftb-teams-forge-2001.3.0.jar",
+            "MD5": "31acf433df9d13282fa12bd6974c44f9"
+          }
+        },
+        {
+          "id": "generated.forgemod:gml:4.0.9-all@jar",
+          "name": "Gml",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 11124968,
+            "url": "http://localhost:8080/servers/prueba-1.20.1/forgemods/required/gml-4.0.9-all.jar",
+            "MD5": "09db2f78b7cb67b27dd2b58989bc4947"
+          }
+        },
+        {
+          "id": "de.keksuccino:konkrete:1.8.0@jar",
+          "name": "Konkrete",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 625185,
+            "url": "http://localhost:8080/servers/prueba-1.20.1/forgemods/required/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+            "MD5": "d69107c593e361e1b7b96733250bd098"
+          }
+        },
+        {
+          "id": "de.keksuccino:melody:1.0.2@jar",
+          "name": "Melody",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 37178,
+            "url": "http://localhost:8080/servers/prueba-1.20.1/forgemods/required/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+            "MD5": "6b528d368f7fcbf737df28f2457cdec6"
+          }
+        },
+        {
+          "id": "net.irisshaders.iris:oculus:1.7.0@jar",
+          "name": "Oculus",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2831148,
+            "url": "http://localhost:8080/servers/prueba-1.20.1/forgemods/required/oculus-mc1.20.1-1.7.0.jar",
+            "MD5": "45b96133bb46cc61dd9778bd4fca741d"
+          }
+        },
+        {
+          "id": "net.wurstclient.zoom:wi_zoom:1.5-MC1.20.1-Forge@jar",
+          "name": "WI Zoom",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 141897,
+            "url": "http://localhost:8080/servers/prueba-1.20.1/forgemods/required/WI-Zoom-1.5-MC1.20.1-Forge.jar",
+            "MD5": "754b287265cb26821883f2afcab701ae"
+          }
+        },
+        {
+          "id": "appleskin-client.toml",
+          "name": "appleskin-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1361,
+            "url": "http://localhost:8080/servers/prueba-1.20.1/files/config/appleskin-client.toml",
+            "MD5": "999dd7d912a7eb915c59b1025710ca12",
+            "path": "config/appleskin-client.toml"
+          }
+        },
+        {
+          "id": "embeddium-fingerprint.json",
+          "name": "embeddium-fingerprint.json",
+          "type": "File",
+          "artifact": {
+            "size": 427,
+            "url": "http://localhost:8080/servers/prueba-1.20.1/files/config/embeddium-fingerprint.json",
+            "MD5": "ce20ba8076b31cdab54767420878eeda",
+            "path": "config/embeddium-fingerprint.json"
+          }
+        },
+        {
+          "id": "embeddium-mixins.properties",
+          "name": "embeddium-mixins.properties",
+          "type": "File",
+          "artifact": {
+            "size": 269,
+            "url": "http://localhost:8080/servers/prueba-1.20.1/files/config/embeddium-mixins.properties",
+            "MD5": "a9176524f816153a7967217b53bb75a1",
+            "path": "config/embeddium-mixins.properties"
+          }
+        },
+        {
+          "id": "embeddium-options.json",
+          "name": "embeddium-options.json",
+          "type": "File",
+          "artifact": {
+            "size": 852,
+            "url": "http://localhost:8080/servers/prueba-1.20.1/files/config/embeddium-options.json",
+            "MD5": "c0a96a9199ece4278654cf6e1fb2584c",
+            "path": "config/embeddium-options.json"
+          }
+        },
+        {
+          "id": "enhancedvisuals-client.json",
+          "name": "enhancedvisuals-client.json",
+          "type": "File",
+          "artifact": {
+            "size": 8145,
+            "url": "http://localhost:8080/servers/prueba-1.20.1/files/config/enhancedvisuals-client.json",
+            "MD5": "1736f8cb246233af6df98492bb9b77e2",
+            "path": "config/enhancedvisuals-client.json"
+          }
+        },
+        {
+          "id": "customizablemenus.txt",
+          "name": "customizablemenus.txt",
+          "type": "File",
+          "artifact": {
+            "size": 26,
+            "url": "http://localhost:8080/servers/prueba-1.20.1/files/config/fancymenu/customizablemenus.txt",
+            "MD5": "fe5f2f91fcc0653b93634a414aa90cd5",
+            "path": "config/fancymenu/customizablemenus.txt"
+          }
+        },
+        {
+          "id": "custom_gui_screens.txt",
+          "name": "custom_gui_screens.txt",
+          "type": "File",
+          "artifact": {
+            "size": 51,
+            "url": "http://localhost:8080/servers/prueba-1.20.1/files/config/fancymenu/custom_gui_screens.txt",
+            "MD5": "106e52948415f0879c53304f50783b28",
+            "path": "config/fancymenu/custom_gui_screens.txt"
+          }
+        },
+        {
+          "id": "legacy_checklist.txt",
+          "name": "legacy_checklist.txt",
+          "type": "File",
+          "artifact": {
+            "size": 42,
+            "url": "http://localhost:8080/servers/prueba-1.20.1/files/config/fancymenu/legacy_checklist.txt",
+            "MD5": "bc03e01c4f1bf1e24e9b86591baa512b",
+            "path": "config/fancymenu/legacy_checklist.txt"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 1798,
+            "url": "http://localhost:8080/servers/prueba-1.20.1/files/config/fancymenu/options.txt",
+            "MD5": "e29b5119da47bf3079bbe5424ce1753e",
+            "path": "config/fancymenu/options.txt"
+          }
+        },
+        {
+          "id": "dark.json",
+          "name": "dark.json",
+          "type": "File",
+          "artifact": {
+            "size": 4133,
+            "url": "http://localhost:8080/servers/prueba-1.20.1/files/config/fancymenu/ui_themes/dark.json",
+            "MD5": "1fc916f1d20b24c5f0d2d138d19c49a4",
+            "path": "config/fancymenu/ui_themes/dark.json"
+          }
+        },
+        {
+          "id": "light.json",
+          "name": "light.json",
+          "type": "File",
+          "artifact": {
+            "size": 4135,
+            "url": "http://localhost:8080/servers/prueba-1.20.1/files/config/fancymenu/ui_themes/light.json",
+            "MD5": "adfba137b3d62c50a5186a4f6523a72a",
+            "path": "config/fancymenu/ui_themes/light.json"
+          }
+        },
+        {
+          "id": "user_variables.db",
+          "name": "user_variables.db",
+          "type": "File",
+          "artifact": {
+            "size": 23,
+            "url": "http://localhost:8080/servers/prueba-1.20.1/files/config/fancymenu/user_variables.db",
+            "MD5": "458e4f3f673e3fea22fb92bf76fcf912",
+            "path": "config/fancymenu/user_variables.db"
+          }
+        },
+        {
+          "id": "fml.toml",
+          "name": "fml.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1148,
+            "url": "http://localhost:8080/servers/prueba-1.20.1/files/config/fml.toml",
+            "MD5": "783d5f5e55fc91951e5e234d72980761",
+            "path": "config/fml.toml"
+          }
+        },
+        {
+          "id": "forge-client.toml",
+          "name": "forge-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1399,
+            "url": "http://localhost:8080/servers/prueba-1.20.1/files/config/forge-client.toml",
+            "MD5": "17ce4f44d2b8e9186512d7bc94501b18",
+            "path": "config/forge-client.toml"
+          }
+        },
+        {
+          "id": "gml-script-mods.toml",
+          "name": "gml-script-mods.toml",
+          "type": "File",
+          "artifact": {
+            "size": 121,
+            "url": "http://localhost:8080/servers/prueba-1.20.1/files/config/gml-script-mods.toml",
+            "MD5": "2bfd302a360d40fefcdbaf96eec582a5",
+            "path": "config/gml-script-mods.toml"
+          }
+        },
+        {
+          "id": "de_de.local",
+          "name": "de_de.local",
+          "type": "File",
+          "artifact": {
+            "size": 369,
+            "url": "http://localhost:8080/servers/prueba-1.20.1/files/config/konkrete/locals/de_de.local",
+            "MD5": "3aac3df2519057d2305f894c37771e30",
+            "path": "config/konkrete/locals/de_de.local"
+          }
+        },
+        {
+          "id": "en_us.local",
+          "name": "en_us.local",
+          "type": "File",
+          "artifact": {
+            "size": 426,
+            "url": "http://localhost:8080/servers/prueba-1.20.1/files/config/konkrete/locals/en_us.local",
+            "MD5": "56c7ccaa193ba73c0d5c50aff28bb807",
+            "path": "config/konkrete/locals/en_us.local"
+          }
+        },
+        {
+          "id": "pl_pl.local",
+          "name": "pl_pl.local",
+          "type": "File",
+          "artifact": {
+            "size": 313,
+            "url": "http://localhost:8080/servers/prueba-1.20.1/files/config/konkrete/locals/pl_pl.local",
+            "MD5": "c1f5aa5c2d2ac414f75f0ec3cab3b9c8",
+            "path": "config/konkrete/locals/pl_pl.local"
+          }
+        },
+        {
+          "id": "pt_br.local",
+          "name": "pt_br.local",
+          "type": "File",
+          "artifact": {
+            "size": 322,
+            "url": "http://localhost:8080/servers/prueba-1.20.1/files/config/konkrete/locals/pt_br.local",
+            "MD5": "2d055da094c115b94f0e4373a2e06ebe",
+            "path": "config/konkrete/locals/pt_br.local"
+          }
+        },
+        {
+          "id": "oculus.properties",
+          "name": "oculus.properties",
+          "type": "File",
+          "artifact": {
+            "size": 254,
+            "url": "http://localhost:8080/servers/prueba-1.20.1/files/config/oculus.properties",
+            "MD5": "4be934a1050d5e1ded527245cd792557",
+            "path": "config/oculus.properties"
+          }
+        },
+        {
+          "id": "sidebar_buttons.json",
+          "name": "sidebar_buttons.json",
+          "type": "File",
+          "artifact": {
+            "size": 192,
+            "url": "http://localhost:8080/servers/prueba-1.20.1/files/config/sidebar_buttons.json",
+            "MD5": "50226dcf1b68c34a0daaed60ed176f55",
+            "path": "config/sidebar_buttons.json"
+          }
         }
       ]
     }
