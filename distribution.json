@@ -1,24 +1,24 @@
 {
   "version": "1.0.0",
-  "rss": "<LINK TO RSS FEED>",
+  "rss": "https://helios-files.geekcorner.eu.org/rss.xml",
   "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    "clientId": "1086936373057040395",
+    "smallImageText": "Change me through Nebula",
+    "smallImageKey": "big"
   },
   "servers": [
     {
-      "id": "prueba-1.20.1",
-      "name": "prueba (Minecraft 1.20.1)",
-      "description": "prueba Running Minecraft 1.20.1 (Forge v47.3.12)",
-      "icon": null,
-      "version": "1",
-      "address": "localhost:25565",
+      "id": "Demo-1.19.4",
+      "name": "Demo (Minecraft 1.19.4)",
+      "description": "Demo Running Minecraft 1.19.4 (Forge v45.0.9)",
+      "icon": "https://helios-files.geekcorner.eu.org/servers/Demo-1.19.4/Demo-1.19.4.png",
+      "version": "1.0.0",
+      "address": "23.139.82.215:25600",
       "minecraftVersion": "1.20.1",
       "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+        "shortId": "1.19.4 Demo",
+        "largeImageKey": "https://raw.githubusercontent.com/dscalzi/HeliosLauncher/master/build/icon.png",
+        "largeImageText": "forge-vanilla"
       },
       "mainServer": false,
       "autoconnect": false,
