@@ -8,7 +8,7 @@
   },
   "servers": [
     {
-      "id": "prueba-1.20.1",
+      "id": "prueba22-1.20.1",
       "name": "prueba (Minecraft 1.20.1)",
       "description": "prueba Running Minecraft 1.20.1 (Forge v47.3.12)",
       "icon": null,
