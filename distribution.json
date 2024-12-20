@@ -736,17 +736,6 @@
           }
         },
         {
-          "id": "fml.toml",
-          "name": "fml.toml",
-          "type": "File",
-          "artifact": {
-            "size": 1148,
-            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/prueba-1.20.1/files/config/fml.toml",
-            "MD5": "783d5f5e55fc91951e5e234d72980761",
-            "path": "config/fml.toml"
-          }
-        },
-        {
           "id": "forge-client.toml",
           "name": "forge-client.toml",
           "type": "File",
