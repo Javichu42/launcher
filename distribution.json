@@ -9,11 +9,11 @@
   "servers": [
     {
       "id": "prueba-1.20.1",
-      "name": "prueba (Minecraft 1.20.1)",
-      "description": "prueba Running Minecraft 1.20.1 (Forge v47.3.12)",
-      "icon": null,
+      "name": "Luz, Camara, Guerra (1.20.1)",
+      "description": "Evento",
+      "icon": https://i.imgur.com/znjcB4G.png,
       "version": "1",
-      "address": "localhost:25565",
+      "address": "23.139.82.215:25600",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
