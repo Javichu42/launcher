@@ -11,7 +11,7 @@
       "id": "prueba-1.20.1",
       "name": "Luz, Camara, Guerra (1.20.1)",
       "description": "Evento",
-      "icon": https://i.imgur.com/znjcB4G.png,
+      "icon": "https://i.imgur.com/znjcB4G.png",
       "version": "1",
       "address": "23.139.82.215:25600",
       "minecraftVersion": "1.20.1",
