@@ -2904,17 +2904,6 @@
           }
         },
         {
-          "id": "enhanced_boss_bars-common.toml",
-          "name": "enhanced_boss_bars-common.toml",
-          "type": "File",
-          "artifact": {
-            "size": 1085,
-            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/enhanced_boss_bars-common.toml",
-            "MD5": "fa2c5c9beeff3d60ea5832c246640210",
-            "path": "config/enhanced_boss_bars-common.toml"
-          }
-        },
-        {
           "id": "explosiveenhancement.toml",
           "name": "explosiveenhancement.toml",
           "type": "File",
@@ -4122,17 +4111,6 @@
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/MobsBrainUpgrades.toml",
             "MD5": "b6c7353fa46619d44d981ddd5e837dd6",
             "path": "config/MobsBrainUpgrades.toml"
-          }
-        },
-        {
-          "id": "notenoughanimations.json",
-          "name": "notenoughanimations.json",
-          "type": "File",
-          "artifact": {
-            "size": 1388,
-            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/notenoughanimations.json",
-            "MD5": "7ebebbada3401a194abd0080039e43f5",
-            "path": "config/notenoughanimations.json"
           }
         },
         {
@@ -20831,50 +20809,6 @@
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/waystones-common.toml",
             "MD5": "26cb3ddedb61b9ee8fd57394c9cdf3cc",
             "path": "config/waystones-common.toml"
-          }
-        },
-        {
-          "id": "weeping-angels-spawns.toml",
-          "name": "weeping-angels-spawns.toml",
-          "type": "File",
-          "artifact": {
-            "size": 550,
-            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/weeping-angels-spawns.toml",
-            "MD5": "2e3558c5c505a9eb4a46881cba3a1652",
-            "path": "config/weeping-angels-spawns.toml"
-          }
-        },
-        {
-          "id": "weeping_angels-client.toml",
-          "name": "weeping_angels-client.toml",
-          "type": "File",
-          "artifact": {
-            "size": 74,
-            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/weeping_angels-client.toml",
-            "MD5": "d3bbffeb249685461ba05828a1be5784",
-            "path": "config/weeping_angels-client.toml"
-          }
-        },
-        {
-          "id": "weeping_angels-common.toml",
-          "name": "weeping_angels-common.toml",
-          "type": "File",
-          "artifact": {
-            "size": 1053,
-            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/weeping_angels-common.toml",
-            "MD5": "9f3a1219729854a847109d7f399a723a",
-            "path": "config/weeping_angels-common.toml"
-          }
-        },
-        {
-          "id": "weeping_angels_spawns.json",
-          "name": "weeping_angels_spawns.json",
-          "type": "File",
-          "artifact": {
-            "size": 25819,
-            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/weeping_angels_spawns.json",
-            "MD5": "a2ad2f063fb32b644bcce5ea5b619e41",
-            "path": "config/weeping_angels_spawns.json"
           }
         },
         {
