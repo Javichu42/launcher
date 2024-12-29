@@ -9,10 +9,10 @@
   "servers": [
     {
       "id": "LCG-1.20.1",
-      "name": "LCG (Minecraft 1.20.1)asdasd",
+      "name": "LCG (Minecraft 1.20.1)123",
       "description": "LCG Running Minecraft 1.20.1 (Forge v47.3.0)",
       "icon": null,
-      "version": "1.0.0",
+      "version": "",
       "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -1193,13 +1193,13 @@
           }
         },
         {
-          "id": "xaero.minimap:xaerominimap:24.6.1@jar",
+          "id": "xaero.minimap:xaerominimap:24.7.1@jar",
           "name": "Xaero's Minimap",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1605900,
-            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/forgemods/required/Xaeros_Minimap_24.6.1_Forge_1.20.jar",
-            "MD5": "f4298b934da5b891604978187570565b"
+            "size": 1621195,
+            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/forgemods/required/Xaeros_Minimap_24.7.1_Forge_1.20.jar",
+            "MD5": "c29078689ae23ddf4ded23b8b13d0727"
           }
         },
         {
@@ -2437,7 +2437,7 @@
           "artifact": {
             "size": 144,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/bettervillage_1.properties",
-            "MD5": "85eaf0fc243b8392fcabb91435dd6696",
+            "MD5": "f42ca559b15b78fe2098b19b56f2fa64",
             "path": "config/bettervillage_1.properties"
           }
         },
@@ -2611,9 +2611,9 @@
           "name": "cpm.json",
           "type": "File",
           "artifact": {
-            "size": 66,
+            "size": 119,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/cpm.json",
-            "MD5": "6df1d358b7a5cbefadced3f4ac410f58",
+            "MD5": "0eed4a63c1f5a3fe6747153ca824efac",
             "path": "config/cpm.json"
           }
         },
@@ -2833,7 +2833,7 @@
           "artifact": {
             "size": 427,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/embeddium-fingerprint.json",
-            "MD5": "75dafe09775f4606b3678b40f1bcbbe5",
+            "MD5": "bad935af562a26c83f48c17b400e15c2",
             "path": "config/embeddium-fingerprint.json"
           }
         },
@@ -2901,6 +2901,17 @@
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/enhancedvisuals.json",
             "MD5": "279f032a0748fb301202c6daebc84b83",
             "path": "config/enhancedvisuals.json"
+          }
+        },
+        {
+          "id": "enhanced_boss_bars-common.toml",
+          "name": "enhanced_boss_bars-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1085,
+            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/enhanced_boss_bars-common.toml",
+            "MD5": "fa2c5c9beeff3d60ea5832c246640210",
+            "path": "config/enhanced_boss_bars-common.toml"
           }
         },
         {
@@ -3183,9 +3194,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 1797,
+            "size": 1798,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/fancymenu/options.txt",
-            "MD5": "f138425ab4bb5981c564a71664dc7668",
+            "MD5": "d8cbe410a25ad2fac1446bcdf4b8a9d8",
             "path": "config/fancymenu/options.txt"
           }
         },
@@ -3744,9 +3755,9 @@
           "name": "ingredient-list-mod-sort-order.ini",
           "type": "File",
           "artifact": {
-            "size": 569,
+            "size": 553,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/jei/ingredient-list-mod-sort-order.ini",
-            "MD5": "01c49daffb56b731c1969c84a14c6c11",
+            "MD5": "7a5bfef85d199c0e3b30827e66786aa7",
             "path": "config/jei/ingredient-list-mod-sort-order.ini"
           }
         },
@@ -3867,7 +3878,7 @@
           "artifact": {
             "size": 193,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/libraryferret_1.properties",
-            "MD5": "d156b0fed0954d914ebdfba0589d5ff8",
+            "MD5": "0cfd86654eef40cc9105346723f72957",
             "path": "config/libraryferret_1.properties"
           }
         },
@@ -4114,6 +4125,17 @@
           }
         },
         {
+          "id": "notenoughanimations.json",
+          "name": "notenoughanimations.json",
+          "type": "File",
+          "artifact": {
+            "size": 1388,
+            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/notenoughanimations.json",
+            "MD5": "7ebebbada3401a194abd0080039e43f5",
+            "path": "config/notenoughanimations.json"
+          }
+        },
+        {
           "id": "aquamirae-client.toml",
           "name": "aquamirae-client.toml",
           "type": "File",
@@ -4197,7 +4219,7 @@
           "artifact": {
             "size": 292,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/oculus.properties",
-            "MD5": "26e53150edb21e248775511a6a5c4bca",
+            "MD5": "9e1a94e696376235adda84ba91397ea6",
             "path": "config/oculus.properties"
           }
         },
@@ -4329,7 +4351,7 @@
           "artifact": {
             "size": 118887,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/sound_physics_remastered/allowed_sounds.properties",
-            "MD5": "7d6faf8c521f94849098bf1ed206c7a0",
+            "MD5": "a120c8986a32556688d6bf0b879db3e8",
             "path": "config/sound_physics_remastered/allowed_sounds.properties"
           }
         },
@@ -4340,7 +4362,7 @@
           "artifact": {
             "size": 4831,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/sound_physics_remastered/occlusion.properties",
-            "MD5": "560fdf4a585aac30e6d064025a34b5b8",
+            "MD5": "604cc888a057523afea9bcb0f4644e99",
             "path": "config/sound_physics_remastered/occlusion.properties"
           }
         },
@@ -4351,7 +4373,7 @@
           "artifact": {
             "size": 4713,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/sound_physics_remastered/reflectivity.properties",
-            "MD5": "aff08e70cf23868cc60a24d7b4668f15",
+            "MD5": "62b626582256a9c7489c9b868b59db6e",
             "path": "config/sound_physics_remastered/reflectivity.properties"
           }
         },
@@ -4375,6 +4397,17 @@
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/tacz/backup/tacz_default_gun/backup-20241214-213917-c7e4e348c2c8dd37ec05ed9c642a8d02.zip",
             "MD5": "c7e4e348c2c8dd37ec05ed9c642a8d02",
             "path": "config/tacz/backup/tacz_default_gun/backup-20241214-213917-c7e4e348c2c8dd37ec05ed9c642a8d02.zip"
+          }
+        },
+        {
+          "id": "backup-20241229-172657-c4b8fb2e1e15b6b21bce6b6877a58d8c.zip",
+          "name": "backup-20241229-172657-c4b8fb2e1e15b6b21bce6b6877a58d8c.zip",
+          "type": "File",
+          "artifact": {
+            "size": 24665366,
+            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/tacz/backup/tacz_default_gun/backup-20241229-172657-c4b8fb2e1e15b6b21bce6b6877a58d8c.zip",
+            "MD5": "c4b8fb2e1e15b6b21bce6b6877a58d8c",
+            "path": "config/tacz/backup/tacz_default_gun/backup-20241229-172657-c4b8fb2e1e15b6b21bce6b6877a58d8c.zip"
           }
         },
         {
@@ -20750,9 +20783,9 @@
           "name": "username-cache.json",
           "type": "File",
           "artifact": {
-            "size": 202,
+            "size": 253,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/voicechat/username-cache.json",
-            "MD5": "802f8510ca01b9cbf3bef6cf727d51e0",
+            "MD5": "f52d56bf53d0dadee17fadaddc4f6e57",
             "path": "config/voicechat/username-cache.json"
           }
         },
@@ -20812,6 +20845,50 @@
           }
         },
         {
+          "id": "weeping-angels-spawns.toml",
+          "name": "weeping-angels-spawns.toml",
+          "type": "File",
+          "artifact": {
+            "size": 550,
+            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/weeping-angels-spawns.toml",
+            "MD5": "2e3558c5c505a9eb4a46881cba3a1652",
+            "path": "config/weeping-angels-spawns.toml"
+          }
+        },
+        {
+          "id": "weeping_angels-client.toml",
+          "name": "weeping_angels-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 74,
+            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/weeping_angels-client.toml",
+            "MD5": "d3bbffeb249685461ba05828a1be5784",
+            "path": "config/weeping_angels-client.toml"
+          }
+        },
+        {
+          "id": "weeping_angels-common.toml",
+          "name": "weeping_angels-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1053,
+            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/weeping_angels-common.toml",
+            "MD5": "9f3a1219729854a847109d7f399a723a",
+            "path": "config/weeping_angels-common.toml"
+          }
+        },
+        {
+          "id": "weeping_angels_spawns.json",
+          "name": "weeping_angels_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 25819,
+            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/weeping_angels_spawns.json",
+            "MD5": "a2ad2f063fb32b644bcce5ea5b619e41",
+            "path": "config/weeping_angels_spawns.json"
+          }
+        },
+        {
           "id": "xaerominimap-common.txt",
           "name": "xaerominimap-common.txt",
           "type": "File",
@@ -20840,7 +20917,7 @@
           "artifact": {
             "size": 5531,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/xaerominimap_entities.json",
-            "MD5": "71086272395ab15f8fdaad8e2c7320da",
+            "MD5": "9c08ddf57ca870f128b7671da8fbd0f7",
             "path": "config/xaerominimap_entities.json"
           }
         },
