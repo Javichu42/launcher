@@ -548,7 +548,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 10803862,
-            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/forgemods/required/born_in_chaos_[Forge]1.20.1_1.5.2.jar",
+            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/forgemods/required/born_in_chaos_%5BForge%5D1.20.1_1.5.2.jar",
             "MD5": "ea63771713891d0a41e50b72335fcad7"
           }
         },
