@@ -9,7 +9,7 @@
   "servers": [
     {
       "id": "LCG-1.20.1",
-      "name": "LCG (Minecraft 1.20.1)",
+      "name": "LCG (Minecraft 1.20.1)asd",
       "description": "LCG Running Minecraft 1.20.1 (Forge v47.3.0)",
       "icon": null,
       "version": "",
@@ -853,23 +853,23 @@
           }
         },
         {
-          "id": "com.majruszlibrary:majruszlibrary:7.0.8@jar",
+          "id": "com.majruszlibrary:majruszlibrary:7.0.7@jar",
           "name": "Majrusz Library",
           "type": "ForgeMod",
           "artifact": {
-            "size": 437340,
-            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/forgemods/required/majrusz-library-forge-1.20.1-7.0.8.jar",
-            "MD5": "f41b4aea81b1e3a1538a1beace7f6c7d"
+            "size": 437317,
+            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/forgemods/required/majrusz-library-forge-1.20.1-7.0.7.jar",
+            "MD5": "5408d8f4afdff1c349cd7efc495bb6b7"
           }
         },
         {
-          "id": "com.majruszsdifficulty:majruszsdifficulty:1.9.10@jar",
+          "id": "com.majruszsdifficulty:majruszsdifficulty:1.9.9@jar",
           "name": "Majrusz's Progressive Difficulty",
           "type": "ForgeMod",
           "artifact": {
-            "size": 777242,
-            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/forgemods/required/majruszs-difficulty-forge-1.20.1-1.9.10.jar",
-            "MD5": "0c7904c13caf349c515270a66356fa09"
+            "size": 770001,
+            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/forgemods/required/majruszs-difficulty-forge-1.20.1-1.9.9.jar",
+            "MD5": "fda7ad017a3310d9050344acb6c06a45"
           }
         },
         {
@@ -2437,7 +2437,7 @@
           "artifact": {
             "size": 144,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/bettervillage_1.properties",
-            "MD5": "f42ca559b15b78fe2098b19b56f2fa64",
+            "MD5": "9d2c4b1d3ac01a8b86dd68fe3f74fc92",
             "path": "config/bettervillage_1.properties"
           }
         },
@@ -3878,7 +3878,7 @@
           "artifact": {
             "size": 193,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/libraryferret_1.properties",
-            "MD5": "0cfd86654eef40cc9105346723f72957",
+            "MD5": "d755e8049e77084b773db1543bfdecf1",
             "path": "config/libraryferret_1.properties"
           }
         },
@@ -4219,7 +4219,7 @@
           "artifact": {
             "size": 292,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/oculus.properties",
-            "MD5": "9e1a94e696376235adda84ba91397ea6",
+            "MD5": "e1900b549ef62d667897d8cd0e217074",
             "path": "config/oculus.properties"
           }
         },
@@ -4362,7 +4362,7 @@
           "artifact": {
             "size": 4831,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/sound_physics_remastered/occlusion.properties",
-            "MD5": "604cc888a057523afea9bcb0f4644e99",
+            "MD5": "712e078904ff77a65e1e9a9445774e9d",
             "path": "config/sound_physics_remastered/occlusion.properties"
           }
         },
@@ -4373,7 +4373,7 @@
           "artifact": {
             "size": 4713,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/sound_physics_remastered/reflectivity.properties",
-            "MD5": "62b626582256a9c7489c9b868b59db6e",
+            "MD5": "912658a3d45c533b6771d0c8d7548dd0",
             "path": "config/sound_physics_remastered/reflectivity.properties"
           }
         },
@@ -20917,7 +20917,7 @@
           "artifact": {
             "size": 5531,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/xaerominimap_entities.json",
-            "MD5": "9c08ddf57ca870f128b7671da8fbd0f7",
+            "MD5": "e87f24bcf76e9dd754062655420a3773",
             "path": "config/xaerominimap_entities.json"
           }
         },
