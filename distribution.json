@@ -9,10 +9,10 @@
   "servers": [
     {
       "id": "LCG-1.20.1",
-      "name": "LCG (Minecraft 1.20.1)",
+      "name": "LCG (Minecraft 1.20.1)1231",
       "description": "LCG Running Minecraft 1.20.1 (Forge v47.3.0)",
       "icon": null,
-      "version": "",
+      "version": "1.0.0",
       "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -673,6 +673,16 @@
           }
         },
         {
+          "id": "com.nakuring:enhanced_boss_bars:1.20.1-1.0.0@jar",
+          "name": "Enhanced Boss Bars",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 254629,
+            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/forgemods/required/enhanced_boss_bars-1.20.1-1.0.0%20(1).jar",
+            "MD5": "26cdbb61d5d8b0d91584f5f4ca233237"
+          }
+        },
+        {
           "id": "team.creative:enhancedvisuals:1.8.1@jar",
           "name": "EnhancedVisuals",
           "type": "ForgeMod",
@@ -740,6 +750,46 @@
             "size": 308420,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/forgemods/required/framework-forge-1.20.1-0.7.12.jar",
             "MD5": "1b6b6ccc60c5a6ef2c232553f8a060f4"
+          }
+        },
+        {
+          "id": "dev.ftb.mods:ftblibrary:2001.2.7@jar",
+          "name": "FTB Library",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 791244,
+            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/forgemods/required/ftb-library-forge-2001.2.7.jar",
+            "MD5": "3034d825d836273d79e7a453dd2a65f5"
+          }
+        },
+        {
+          "id": "dev.ftb.mods:ftbquests:2001.4.9@jar",
+          "name": "FTB Quests",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1183769,
+            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/forgemods/required/ftb-quests-forge-2001.4.9.jar",
+            "MD5": "7bfa68ae939f181e7be4dc87485f4332"
+          }
+        },
+        {
+          "id": "dev.ftb.mods:ftbteams:2001.3.0@jar",
+          "name": "FTB Teams",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 247666,
+            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/forgemods/required/ftb-teams-forge-2001.3.0.jar",
+            "MD5": "31acf433df9d13282fa12bd6974c44f9"
+          }
+        },
+        {
+          "id": "dev.ftb.mods:ftbxmodcompat:2.1.1@jar",
+          "name": "FTB XMod Compat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 129541,
+            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/forgemods/required/ftb-xmod-compat-forge-2.1.1.jar",
+            "MD5": "f506cff280b8cb09b4aeb39359f7b1aa"
           }
         },
         {
@@ -853,23 +903,23 @@
           }
         },
         {
-          "id": "com.majruszlibrary:majruszlibrary:7.0.7@jar",
+          "id": "com.majruszlibrary:majruszlibrary:7.0.8@jar",
           "name": "Majrusz Library",
           "type": "ForgeMod",
           "artifact": {
-            "size": 437317,
-            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/forgemods/required/majrusz-library-forge-1.20.1-7.0.7.jar",
-            "MD5": "5408d8f4afdff1c349cd7efc495bb6b7"
+            "size": 437340,
+            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/forgemods/required/majrusz-library-forge-1.20.1-7.0.8.jar",
+            "MD5": "f41b4aea81b1e3a1538a1beace7f6c7d"
           }
         },
         {
-          "id": "com.majruszsdifficulty:majruszsdifficulty:1.9.9@jar",
+          "id": "com.majruszsdifficulty:majruszsdifficulty:1.9.10@jar",
           "name": "Majrusz's Progressive Difficulty",
           "type": "ForgeMod",
           "artifact": {
-            "size": 770001,
-            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/forgemods/required/majruszs-difficulty-forge-1.20.1-1.9.9.jar",
-            "MD5": "fda7ad017a3310d9050344acb6c06a45"
+            "size": 777242,
+            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/forgemods/required/majruszs-difficulty-forge-1.20.1-1.9.10.jar",
+            "MD5": "0c7904c13caf349c515270a66356fa09"
           }
         },
         {
@@ -940,6 +990,16 @@
             "size": 237943,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/forgemods/required/Mobs%20Brain%20Upgrades%201.1.4.jar",
             "MD5": "83bdff067b9804eac49b0597f8772264"
+          }
+        },
+        {
+          "id": "dev.tr7zw:notenoughanimations:1.8.2@jar",
+          "name": "NotEnoughAnimations",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 438836,
+            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/forgemods/required/notenoughanimations-forge-1.8.2-mc1.20.1.jar",
+            "MD5": "13c36831705b462a6b7c70537d0e0a8b"
           }
         },
         {
@@ -1193,13 +1253,13 @@
           }
         },
         {
-          "id": "xaero.minimap:xaerominimap:24.7.1@jar",
+          "id": "xaero.minimap:xaerominimap:24.6.1@jar",
           "name": "Xaero's Minimap",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1621195,
-            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/forgemods/required/Xaeros_Minimap_24.7.1_Forge_1.20.jar",
-            "MD5": "c29078689ae23ddf4ded23b8b13d0727"
+            "size": 1605900,
+            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/forgemods/required/Xaeros_Minimap_24.6.1_Forge_1.20.jar",
+            "MD5": "f4298b934da5b891604978187570565b"
           }
         },
         {
@@ -2437,7 +2497,7 @@
           "artifact": {
             "size": 144,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/bettervillage_1.properties",
-            "MD5": "9d2c4b1d3ac01a8b86dd68fe3f74fc92",
+            "MD5": "e8ad3f6d48fedb05c6c8cac484e5d638",
             "path": "config/bettervillage_1.properties"
           }
         },
@@ -2611,9 +2671,9 @@
           "name": "cpm.json",
           "type": "File",
           "artifact": {
-            "size": 119,
+            "size": 66,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/cpm.json",
-            "MD5": "0eed4a63c1f5a3fe6747153ca824efac",
+            "MD5": "6df1d358b7a5cbefadced3f4ac410f58",
             "path": "config/cpm.json"
           }
         },
@@ -2833,7 +2893,7 @@
           "artifact": {
             "size": 427,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/embeddium-fingerprint.json",
-            "MD5": "bad935af562a26c83f48c17b400e15c2",
+            "MD5": "75dafe09775f4606b3678b40f1bcbbe5",
             "path": "config/embeddium-fingerprint.json"
           }
         },
@@ -3194,9 +3254,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 1798,
+            "size": 1797,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/fancymenu/options.txt",
-            "MD5": "d8cbe410a25ad2fac1446bcdf4b8a9d8",
+            "MD5": "f138425ab4bb5981c564a71664dc7668",
             "path": "config/fancymenu/options.txt"
           }
         },
@@ -3253,6 +3313,17 @@
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/forge-client.toml",
             "MD5": "17ce4f44d2b8e9186512d7bc94501b18",
             "path": "config/forge-client.toml"
+          }
+        },
+        {
+          "id": "ftbxmodcompat.snbt",
+          "name": "ftbxmodcompat.snbt",
+          "type": "File",
+          "artifact": {
+            "size": 521,
+            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/ftbxmodcompat.snbt",
+            "MD5": "b415307c72b1f8c5b24543844adfa995",
+            "path": "config/ftbxmodcompat.snbt"
           }
         },
         {
@@ -3755,9 +3826,9 @@
           "name": "ingredient-list-mod-sort-order.ini",
           "type": "File",
           "artifact": {
-            "size": 553,
+            "size": 565,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/jei/ingredient-list-mod-sort-order.ini",
-            "MD5": "7a5bfef85d199c0e3b30827e66786aa7",
+            "MD5": "5711a28f53f64508ad8defcde1ded1c9",
             "path": "config/jei/ingredient-list-mod-sort-order.ini"
           }
         },
@@ -3821,9 +3892,9 @@
           "name": "recipe-category-sort-order.ini",
           "type": "File",
           "artifact": {
-            "size": 1562,
+            "size": 1601,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/jei/recipe-category-sort-order.ini",
-            "MD5": "63839b9245fa1733dd9c3671215930d9",
+            "MD5": "efaa49f607b48682de829dcf88daf642",
             "path": "config/jei/recipe-category-sort-order.ini"
           }
         },
@@ -3878,7 +3949,7 @@
           "artifact": {
             "size": 193,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/libraryferret_1.properties",
-            "MD5": "d755e8049e77084b773db1543bfdecf1",
+            "MD5": "c3cd4954d2e39e19cd8dd6840cec7792",
             "path": "config/libraryferret_1.properties"
           }
         },
@@ -4219,7 +4290,7 @@
           "artifact": {
             "size": 292,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/oculus.properties",
-            "MD5": "e1900b549ef62d667897d8cd0e217074",
+            "MD5": "e5683c16b265d92adf64954c44a51c61",
             "path": "config/oculus.properties"
           }
         },
@@ -4323,6 +4394,17 @@
           }
         },
         {
+          "id": "sidebar_buttons.json",
+          "name": "sidebar_buttons.json",
+          "type": "File",
+          "artifact": {
+            "size": 192,
+            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/sidebar_buttons.json",
+            "MD5": "50226dcf1b68c34a0daaed60ed176f55",
+            "path": "config/sidebar_buttons.json"
+          }
+        },
+        {
           "id": "simpleplanes-client.toml",
           "name": "simpleplanes-client.toml",
           "type": "File",
@@ -4362,7 +4444,7 @@
           "artifact": {
             "size": 4831,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/sound_physics_remastered/occlusion.properties",
-            "MD5": "712e078904ff77a65e1e9a9445774e9d",
+            "MD5": "99799580a663d2aec05f6cad471bf6c4",
             "path": "config/sound_physics_remastered/occlusion.properties"
           }
         },
@@ -4373,7 +4455,7 @@
           "artifact": {
             "size": 4713,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/sound_physics_remastered/reflectivity.properties",
-            "MD5": "912658a3d45c533b6771d0c8d7548dd0",
+            "MD5": "cd7dac0df9bc22b5bd29657930960de8",
             "path": "config/sound_physics_remastered/reflectivity.properties"
           }
         },
@@ -4397,17 +4479,6 @@
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/tacz/backup/tacz_default_gun/backup-20241214-213917-c7e4e348c2c8dd37ec05ed9c642a8d02.zip",
             "MD5": "c7e4e348c2c8dd37ec05ed9c642a8d02",
             "path": "config/tacz/backup/tacz_default_gun/backup-20241214-213917-c7e4e348c2c8dd37ec05ed9c642a8d02.zip"
-          }
-        },
-        {
-          "id": "backup-20241229-172657-c4b8fb2e1e15b6b21bce6b6877a58d8c.zip",
-          "name": "backup-20241229-172657-c4b8fb2e1e15b6b21bce6b6877a58d8c.zip",
-          "type": "File",
-          "artifact": {
-            "size": 24665366,
-            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/tacz/backup/tacz_default_gun/backup-20241229-172657-c4b8fb2e1e15b6b21bce6b6877a58d8c.zip",
-            "MD5": "c4b8fb2e1e15b6b21bce6b6877a58d8c",
-            "path": "config/tacz/backup/tacz_default_gun/backup-20241229-172657-c4b8fb2e1e15b6b21bce6b6877a58d8c.zip"
           }
         },
         {
@@ -20783,9 +20854,9 @@
           "name": "username-cache.json",
           "type": "File",
           "artifact": {
-            "size": 253,
+            "size": 202,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/voicechat/username-cache.json",
-            "MD5": "f52d56bf53d0dadee17fadaddc4f6e57",
+            "MD5": "802f8510ca01b9cbf3bef6cf727d51e0",
             "path": "config/voicechat/username-cache.json"
           }
         },
@@ -20917,7 +20988,7 @@
           "artifact": {
             "size": 5531,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/xaerominimap_entities.json",
-            "MD5": "e87f24bcf76e9dd754062655420a3773",
+            "MD5": "26b673099007e923a7536548f47dfe1d",
             "path": "config/xaerominimap_entities.json"
           }
         },
@@ -20952,17 +21023,6 @@
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/xaeroworldmap.txt",
             "MD5": "61668053aa4dc58507cde11ed376502c",
             "path": "config/xaeroworldmap.txt"
-          }
-        },
-        {
-          "id": "last_world.fmdata",
-          "name": "last_world.fmdata",
-          "type": "File",
-          "artifact": {
-            "size": 84,
-            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/fancymenu_data/last_world.fmdata",
-            "MD5": "06ce5f2f637a388c4e3a53ad5f0ac3a3",
-            "path": "fancymenu_data/last_world.fmdata"
           }
         },
         {
