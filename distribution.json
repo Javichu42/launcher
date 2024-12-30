@@ -903,26 +903,6 @@
           }
         },
         {
-          "id": "com.majruszlibrary:majruszlibrary:7.0.8@jar",
-          "name": "Majrusz Library",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 437340,
-            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/forgemods/required/majrusz-library-forge-1.20.1-7.0.8.jar",
-            "MD5": "f41b4aea81b1e3a1538a1beace7f6c7d"
-          }
-        },
-        {
-          "id": "com.majruszsdifficulty:majruszsdifficulty:1.9.10@jar",
-          "name": "Majrusz's Progressive Difficulty",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 777242,
-            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/forgemods/required/majruszs-difficulty-forge-1.20.1-1.9.10.jar",
-            "MD5": "0c7904c13caf349c515270a66356fa09"
-          }
-        },
-        {
           "id": "com.mcwbridges.kikoz:mcwbridges:3.0.0@jar",
           "name": "Macaw's Bridges",
           "type": "ForgeMod",
