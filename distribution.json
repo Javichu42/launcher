@@ -9,7 +9,7 @@
   "servers": [
     {
       "id": "LCG-1.20.1",
-      "name": "LCG (Minecraft 1.20.1)ad123",
+      "name": "LCG (Minecraft 1.20.1)ad3213",
       "description": "LCG Running Minecraft 1.20.1 (Forge v47.3.0)",
       "icon": null,
       "version": "",
@@ -4128,28 +4128,6 @@
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/lostcities/profiles/wasteland.json",
             "MD5": "425ace3f946a4ce65dffadeb5d14ae24",
             "path": "config/lostcities/profiles/wasteland.json"
-          }
-        },
-        {
-          "id": "majruszlibrary.json",
-          "name": "majruszlibrary.json",
-          "type": "File",
-          "artifact": {
-            "size": 79,
-            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/majruszlibrary.json",
-            "MD5": "ac2c219f9103059e4d2fc2d630705cfb",
-            "path": "config/majruszlibrary.json"
-          }
-        },
-        {
-          "id": "majruszsdifficulty.json",
-          "name": "majruszsdifficulty.json",
-          "type": "File",
-          "artifact": {
-            "size": 21855,
-            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/majruszsdifficulty.json",
-            "MD5": "10f3732cbe158ccc8fe68a23780c8e63",
-            "path": "config/majruszsdifficulty.json"
           }
         },
         {
