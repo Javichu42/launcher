@@ -9,11 +9,11 @@
   "servers": [
     {
       "id": "LCG-1.20.1",
-      "name": "LCG (Minecraft 1.20.1)ad3213",
+      "name": "LCG (Minecraft 1.20.1)",
       "description": "LCG Running Minecraft 1.20.1 (Forge v47.3.0)",
       "icon": null,
       "version": "",
-      "address": "23.139.82.215:25600",
+      "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -900,26 +900,6 @@
             "size": 1167533,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/forgemods/required/lostcities-1.20-7.3.5.jar",
             "MD5": "5401babff344c1f26f9202430cf0ab25"
-          }
-        },
-        {
-          "id": "com.majruszlibrary:majruszlibrary:7.0.8@jar",
-          "name": "Majrusz Library",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 437340,
-            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/forgemods/required/majrusz-library-forge-1.20.1-7.0.8.jar",
-            "MD5": "f41b4aea81b1e3a1538a1beace7f6c7d"
-          }
-        },
-        {
-          "id": "com.majruszsdifficulty:majruszsdifficulty:1.9.10@jar",
-          "name": "Majrusz's Progressive Difficulty",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 777242,
-            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/forgemods/required/majruszs-difficulty-forge-1.20.1-1.9.10.jar",
-            "MD5": "0c7904c13caf349c515270a66356fa09"
           }
         },
         {
@@ -2487,7 +2467,7 @@
           "artifact": {
             "size": 144,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/bettervillage_1.properties",
-            "MD5": "dbd4da19a0170804d6953957e3db2a2c",
+            "MD5": "276c9976a8249cb2a6cf92cbbf73180b",
             "path": "config/bettervillage_1.properties"
           }
         },
@@ -3816,9 +3796,9 @@
           "name": "ingredient-list-mod-sort-order.ini",
           "type": "File",
           "artifact": {
-            "size": 565,
+            "size": 531,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/jei/ingredient-list-mod-sort-order.ini",
-            "MD5": "5711a28f53f64508ad8defcde1ded1c9",
+            "MD5": "1283ccc53fbb3d775f1597989152ea07",
             "path": "config/jei/ingredient-list-mod-sort-order.ini"
           }
         },
@@ -3939,7 +3919,7 @@
           "artifact": {
             "size": 193,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/libraryferret_1.properties",
-            "MD5": "4719f7319eb4a21c5c75e1f1e59c90a6",
+            "MD5": "682a9ffad622969cb5133216f7101726",
             "path": "config/libraryferret_1.properties"
           }
         },
@@ -4128,6 +4108,28 @@
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/lostcities/profiles/wasteland.json",
             "MD5": "425ace3f946a4ce65dffadeb5d14ae24",
             "path": "config/lostcities/profiles/wasteland.json"
+          }
+        },
+        {
+          "id": "majruszlibrary.json",
+          "name": "majruszlibrary.json",
+          "type": "File",
+          "artifact": {
+            "size": 79,
+            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/majruszlibrary.json",
+            "MD5": "ac2c219f9103059e4d2fc2d630705cfb",
+            "path": "config/majruszlibrary.json"
+          }
+        },
+        {
+          "id": "majruszsdifficulty.json",
+          "name": "majruszsdifficulty.json",
+          "type": "File",
+          "artifact": {
+            "size": 21855,
+            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/majruszsdifficulty.json",
+            "MD5": "10f3732cbe158ccc8fe68a23780c8e63",
+            "path": "config/majruszsdifficulty.json"
           }
         },
         {
@@ -4412,7 +4414,7 @@
           "artifact": {
             "size": 119482,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/sound_physics_remastered/allowed_sounds.properties",
-            "MD5": "063110dade8ba3f5ed5a21e2e56141cb",
+            "MD5": "91d785e8e9d5ca8b39c31a70e66fbe15",
             "path": "config/sound_physics_remastered/allowed_sounds.properties"
           }
         },
@@ -4423,7 +4425,7 @@
           "artifact": {
             "size": 4831,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/sound_physics_remastered/occlusion.properties",
-            "MD5": "d67b1014a515f12dde8993b393e5ea14",
+            "MD5": "3936f6b65df05400bacbfc8f02387f28",
             "path": "config/sound_physics_remastered/occlusion.properties"
           }
         },
@@ -4434,7 +4436,7 @@
           "artifact": {
             "size": 4713,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/sound_physics_remastered/reflectivity.properties",
-            "MD5": "6923ba4b7bd93be274095839cd4daea2",
+            "MD5": "289b0cb5cb09bd3bdc37f8f6e6397fa3",
             "path": "config/sound_physics_remastered/reflectivity.properties"
           }
         },
@@ -21024,6 +21026,17 @@
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/fancymenu_data/last_world.fmdata",
             "MD5": "06ce5f2f637a388c4e3a53ad5f0ac3a3",
             "path": "fancymenu_data/last_world.fmdata"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 10078,
+            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/options.txt",
+            "MD5": "812c6799ed24add6f0b6b4a1225b3b96",
+            "path": "options.txt"
           }
         },
         {
