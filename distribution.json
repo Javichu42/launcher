@@ -2,23 +2,23 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    "clientId": "1301148618224566332",
+    "smallImageText": "Luces, Camara, Guerra. - Evento",
+    "smallImageKey": "logo"
   },
   "servers": [
     {
       "id": "LCG-1.20.1",
       "name": "LCG (Minecraft 1.20.1)",
       "description": "LCG Running Minecraft 1.20.1 (Forge v47.3.0)",
-      "icon": null,
-      "version": "",
-      "address": "localhost:25565",
+      "icon": "https://i.imgur.com/uMxb7Cz.png",
+      "version": "1.0.0",
+      "address": "23.139.82.215:25600",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+        "largeImageText": "Jugando Luces, Camara, Guerra",
+        "largeImageKey": "https://i.imgur.com/uMxb7Cz.png"
       },
       "mainServer": false,
       "autoconnect": false,
