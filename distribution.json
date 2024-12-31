@@ -3,8 +3,8 @@
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "1301148618224566332",
-    "smallImageText": "Luces, Camara, Guerra. - Evento",
-    "smallImageKey": "logo"
+    "smallImageText": "",
+    "smallImageKey": ""
   },
   "servers": [
     {
@@ -16,9 +16,9 @@
       "address": "23.139.82.215:25600",
       "minecraftVersion": "1.20.1",
       "discord": {
-        "shortId": "1301148618224566332",
-        "largeImageText": "Jugando Luces, Camara, Guerra",
-        "largeImageKey": "logo"
+        "shortId": "LCG",
+        "largeImageText": "Launcher desarollado por Javichu",
+        "largeImageKey": ""
       },
       "mainServer": false,
       "autoconnect": false,
