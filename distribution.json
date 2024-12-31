@@ -9,7 +9,7 @@
   "servers": [
     {
       "id": "LCG-1.20.1",
-      "name": "LCG (Minecraft 1.20.1)",
+      "name": "LCG (Minecraft 1.20.1)123",
       "description": "LCG Running Minecraft 1.20.1 (Forge v47.3.0)",
       "icon": "https://i.imgur.com/uMxb7Cz.png",
       "version": "1.0.0",
@@ -18,7 +18,7 @@
       "discord": {
         "shortId": "LCG",
         "largeImageText": "Launcher desarollado por Javichu",
-        "largeImageKey": ""
+        "largeImageKey": "logo"
       },
       "mainServer": false,
       "autoconnect": false,
