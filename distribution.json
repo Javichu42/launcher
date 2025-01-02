@@ -433,6 +433,16 @@
           ]
         },
         {
+          "id": "com.magistuarmory:magistuarmory:9.21@jar",
+          "name": "Epic Knights Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2666204,
+            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/forgemods/required/[1.20.1-forge]-Epic-Knights-9.21.jar",
+            "MD5": "53c5b2f84bb4942feca850e2c0841cce"
+          }
+        },
+        {
           "id": "com.github.alexmodguy:alexscaves:2.0.2@jar",
           "name": "Alex's Caves",
           "type": "ForgeMod",
@@ -450,6 +460,16 @@
             "size": 26350793,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/forgemods/required/alexsmobs-1.22.9.jar",
             "MD5": "504050d1f2e2c3019b6f53377ca354c6"
+          }
+        },
+        {
+          "id": "net.mcreator:apocalypsenow:3.0.4@jar",
+          "name": "Apocalypse Now",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 8981059,
+            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/forgemods/required/apocalypsenow-3.0.4-forge-1.20.1.jar",
+            "MD5": "febcb724f3b003b4f0535e08a461043b"
           }
         },
         {
@@ -548,7 +568,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 11392829,
-            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/forgemods/required/born_in_chaos_%5BForge%5D1.20.1_1.6_chilling-horror-event.jar",
+            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/forgemods/required/born_in_chaos_[Forge]1.20.1_1.6_chilling-horror-event.jar",
             "MD5": "9e6e96dbdca393130a979f4a33f377d8"
           }
         },
@@ -580,6 +600,16 @@
             "size": 1181413,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/forgemods/required/cloth-config-11.1.136-forge.jar",
             "MD5": "ca5de5acbcb4a30c010aa6953bd7ef53"
+          }
+        },
+        {
+          "id": "team.creative:cmdcam:2.2.0@jar",
+          "name": "CMDCam",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 138723,
+            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/forgemods/required/CMDCam_FORGE_v2.2.0_mc1.20.1.jar",
+            "MD5": "36d088e72de13edc3d32aea6c5840d68"
           }
         },
         {
@@ -1003,6 +1033,16 @@
           }
         },
         {
+          "id": "net.irisshaders.iris:oculus:1.8.0@jar",
+          "name": "Oculus",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2851119,
+            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
+            "MD5": "1dd891634ac21591b5a692471f112572"
+          }
+        },
+        {
           "id": "virtuoel.pehkui:pehkui:3.8.2+1.20.1-forge@jar",
           "name": "Pehkui",
           "type": "ForgeMod",
@@ -1013,13 +1053,13 @@
           }
         },
         {
-          "id": "net.mcreator.pigletstructures:piglet_structures:1.455@jar",
+          "id": "net.mcreator.pigletstructures:piglet_structures:1.445@jar",
           "name": "Piglet Structures",
           "type": "ForgeMod",
           "artifact": {
-            "size": 12435844,
-            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/forgemods/required/Piglet_Structures_1.20.1(ver.1.455).jar",
-            "MD5": "4f7dc1da9cd611f805dbc9414900f4cc"
+            "size": 11965373,
+            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/forgemods/required/Piglet_Structures_1.20.1(ver.1.445).jar",
+            "MD5": "44ff0ac50adfe389f234333edc70c12d"
           }
         },
         {
@@ -1070,16 +1110,6 @@
             "size": 6681214,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/forgemods/required/refurbished_furniture-forge-1.20.1-1.0.8.jar",
             "MD5": "135e50d0323ff403e7771649419bc69d"
-          }
-        },
-        {
-          "id": "net.veroxuniverse:samurai_dynasty:0.0.48-1.20.1-neo@jar",
-          "name": "Samurai Dynasty",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2365860,
-            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/forgemods/required/samurai_dynasty-0.0.48-1.20.1-neo.jar",
-            "MD5": "96364083486d2b9a3aff1a050f902ca9"
           }
         },
         {
@@ -1183,6 +1213,16 @@
           }
         },
         {
+          "id": "com.github.ngoedix.watchvideo:videoplayer:3.0.5@jar",
+          "name": "VideoPlayer",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 213457,
+            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/forgemods/required/VideoPlayer-3.0.5-FORGE-1.20.X.jar",
+            "MD5": "19725092b398a350a1aaa76a13a5e736"
+          }
+        },
+        {
           "id": "de.maxhenkel:voicechat:1.20.1-2.5.26@jar",
           "name": "Simple Voice Chat",
           "type": "ForgeMod",
@@ -1190,6 +1230,16 @@
             "size": 7729085,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.5.26.jar",
             "MD5": "e8f40809f3ba23a568cf6a51bc4abf5d"
+          }
+        },
+        {
+          "id": "me.srrapero720.watermedia.loaders:watermedia:2.0.75@jar",
+          "name": "WaterMedia",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 27600243,
+            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/forgemods/required/watermedia-2.0.75.jar",
+            "MD5": "05ed7ef455800168b37d15da335a0553"
           }
         },
         {
@@ -2362,6 +2412,17 @@
           }
         },
         {
+          "id": "Apocalypse Now Config.toml",
+          "name": "Apocalypse Now Config.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1901,
+            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/Apocalypse%20Now%20Config.toml",
+            "MD5": "bed4b18f8018a23d0d4b4e105e291bcb",
+            "path": "config/Apocalypse Now Config.toml"
+          }
+        },
+        {
           "id": "appleskin-client.toml",
           "name": "appleskin-client.toml",
           "type": "File",
@@ -2467,7 +2528,7 @@
           "artifact": {
             "size": 144,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/bettervillage_1.properties",
-            "MD5": "276c9976a8249cb2a6cf92cbbf73180b",
+            "MD5": "1646421002b36cf568e1f2f91df48cc3",
             "path": "config/bettervillage_1.properties"
           }
         },
@@ -2634,6 +2695,17 @@
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/citadel-common.toml",
             "MD5": "f211eac94129201b25acdeee49218d43",
             "path": "config/citadel-common.toml"
+          }
+        },
+        {
+          "id": "cmdcam-client.json",
+          "name": "cmdcam-client.json",
+          "type": "File",
+          "artifact": {
+            "size": 24,
+            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/cmdcam-client.json",
+            "MD5": "0a36f08df7ec1fcf96315306b5bb15b3",
+            "path": "config/cmdcam-client.json"
           }
         },
         {
@@ -2863,7 +2935,7 @@
           "artifact": {
             "size": 427,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/embeddium-fingerprint.json",
-            "MD5": "db3ed47f46439eac104f52b43ae83cb6",
+            "MD5": "77f0a9218ed70acb5a7290a7779794fd",
             "path": "config/embeddium-fingerprint.json"
           }
         },
@@ -2942,6 +3014,61 @@
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/enhanced_boss_bars-common.toml",
             "MD5": "fa2c5c9beeff3d60ea5832c246640210",
             "path": "config/enhanced_boss_bars-common.toml"
+          }
+        },
+        {
+          "id": "armor.json5",
+          "name": "armor.json5",
+          "type": "File",
+          "artifact": {
+            "size": 5832,
+            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/epicknights/armor.json5",
+            "MD5": "528c8653826ada6b596bc9f6ddb58564",
+            "path": "config/epicknights/armor.json5"
+          }
+        },
+        {
+          "id": "general.json5",
+          "name": "general.json5",
+          "type": "File",
+          "artifact": {
+            "size": 1915,
+            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/epicknights/general.json5",
+            "MD5": "5dea2ff6e22d354a92ea4cff2cbfb49d",
+            "path": "config/epicknights/general.json5"
+          }
+        },
+        {
+          "id": "mobs_equipment.json5",
+          "name": "mobs_equipment.json5",
+          "type": "File",
+          "artifact": {
+            "size": 1991,
+            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/epicknights/mobs_equipment.json5",
+            "MD5": "9c12e8a1310abffc5574e5ea4f6fc0a5",
+            "path": "config/epicknights/mobs_equipment.json5"
+          }
+        },
+        {
+          "id": "shields.json5",
+          "name": "shields.json5",
+          "type": "File",
+          "artifact": {
+            "size": 276,
+            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/epicknights/shields.json5",
+            "MD5": "802ed78e1fc9fdd10000e9abf6738a6e",
+            "path": "config/epicknights/shields.json5"
+          }
+        },
+        {
+          "id": "weapons.json5",
+          "name": "weapons.json5",
+          "type": "File",
+          "artifact": {
+            "size": 3912,
+            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/epicknights/weapons.json5",
+            "MD5": "cd4bb769486d77b71597e93db153d6bd",
+            "path": "config/epicknights/weapons.json5"
           }
         },
         {
@@ -3154,6 +3281,17 @@
           }
         },
         {
+          "id": "sintitulo.gif",
+          "name": "sintitulo.gif",
+          "type": "File",
+          "artifact": {
+            "size": 6617865,
+            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/fancymenu/assets/sintitulo.gif",
+            "MD5": "6c2ba30a8461244b6701b066da26cb70",
+            "path": "config/fancymenu/assets/sintitulo.gif"
+          }
+        },
+        {
           "id": "titulos.png",
           "name": "titulos.png",
           "type": "File",
@@ -3180,9 +3318,9 @@
           "name": "luces_camara_guerra.txt",
           "type": "File",
           "artifact": {
-            "size": 28852,
+            "size": 28829,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/fancymenu/customization/luces_camara_guerra.txt",
-            "MD5": "cee6b887c1426d260b3fd5900d1a2ac2",
+            "MD5": "86f2b315c3c4a93fe31adfcff81e8140",
             "path": "config/fancymenu/customization/luces_camara_guerra.txt"
           }
         },
@@ -3796,9 +3934,9 @@
           "name": "ingredient-list-mod-sort-order.ini",
           "type": "File",
           "artifact": {
-            "size": 531,
+            "size": 561,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/jei/ingredient-list-mod-sort-order.ini",
-            "MD5": "1283ccc53fbb3d775f1597989152ea07",
+            "MD5": "65dcdf90af24193b82e750205411af82",
             "path": "config/jei/ingredient-list-mod-sort-order.ini"
           }
         },
@@ -3869,6 +4007,17 @@
           }
         },
         {
+          "id": "bookmarks.ini",
+          "name": "bookmarks.ini",
+          "type": "File",
+          "artifact": {
+            "size": 554,
+            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/jei/world/server/23_139_82_215_25600_e619413f/bookmarks.ini",
+            "MD5": "5d090ddc4af3577ba94ff3357df739e1",
+            "path": "config/jei/world/server/23_139_82_215_25600_e619413f/bookmarks.ini"
+          }
+        },
+        {
           "id": "de_de.local",
           "name": "de_de.local",
           "type": "File",
@@ -3919,7 +4068,7 @@
           "artifact": {
             "size": 193,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/libraryferret_1.properties",
-            "MD5": "682a9ffad622969cb5133216f7101726",
+            "MD5": "4f25b6aba8c5405cdc9904a3bee4ec98",
             "path": "config/libraryferret_1.properties"
           }
         },
@@ -4111,6 +4260,17 @@
           }
         },
         {
+          "id": "lrarmor-common.toml",
+          "name": "lrarmor-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 128,
+            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/lrarmor-common.toml",
+            "MD5": "f5a41b5550976c8b2daad20244190a4d",
+            "path": "config/lrarmor-common.toml"
+          }
+        },
+        {
           "id": "majruszlibrary.json",
           "name": "majruszlibrary.json",
           "type": "File",
@@ -4258,9 +4418,9 @@
           "name": "oculus.properties",
           "type": "File",
           "artifact": {
-            "size": 292,
+            "size": 286,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/oculus.properties",
-            "MD5": "e5683c16b265d92adf64954c44a51c61",
+            "MD5": "62d20e7e56fd637a9339a1faa9f42128",
             "path": "config/oculus.properties"
           }
         },
@@ -4412,9 +4572,9 @@
           "name": "allowed_sounds.properties",
           "type": "File",
           "artifact": {
-            "size": 119482,
+            "size": 119944,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/sound_physics_remastered/allowed_sounds.properties",
-            "MD5": "91d785e8e9d5ca8b39c31a70e66fbe15",
+            "MD5": "1486c2e115241b675fd789b27729d72a",
             "path": "config/sound_physics_remastered/allowed_sounds.properties"
           }
         },
@@ -4425,7 +4585,7 @@
           "artifact": {
             "size": 4831,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/sound_physics_remastered/occlusion.properties",
-            "MD5": "3936f6b65df05400bacbfc8f02387f28",
+            "MD5": "ddd8c87c308874d78ccec1f7890e6331",
             "path": "config/sound_physics_remastered/occlusion.properties"
           }
         },
@@ -4436,7 +4596,7 @@
           "artifact": {
             "size": 4713,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/sound_physics_remastered/reflectivity.properties",
-            "MD5": "289b0cb5cb09bd3bdc37f8f6e6397fa3",
+            "MD5": "b3fcf54374b32720dbc9492fcac5e2e1",
             "path": "config/sound_physics_remastered/reflectivity.properties"
           }
         },
@@ -20897,6 +21057,17 @@
           }
         },
         {
+          "id": "loading.gif",
+          "name": "loading.gif",
+          "type": "File",
+          "artifact": {
+            "size": 67758,
+            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/watermedia/assets/loading.gif",
+            "MD5": "30edfee6c054a4e6d37c900541e0b139",
+            "path": "config/watermedia/assets/loading.gif"
+          }
+        },
+        {
           "id": "waystones-common.toml",
           "name": "waystones-common.toml",
           "type": "File",
@@ -20980,7 +21151,7 @@
           "artifact": {
             "size": 5531,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/xaerominimap_entities.json",
-            "MD5": "6aa0c1720795d59a3cd21e3becba9685",
+            "MD5": "e87f24bcf76e9dd754062655420a3773",
             "path": "config/xaerominimap_entities.json"
           }
         },
@@ -21029,17 +21200,6 @@
           }
         },
         {
-          "id": "options.txt",
-          "name": "options.txt",
-          "type": "File",
-          "artifact": {
-            "size": 10078,
-            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/options.txt",
-            "MD5": "812c6799ed24add6f0b6b4a1225b3b96",
-            "path": "options.txt"
-          }
-        },
-        {
           "id": "Blues_Better_Monsters_v0.10.zip",
           "name": "Blues_Better_Monsters_v0.10.zip",
           "type": "File",
@@ -21048,6 +21208,28 @@
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/resourcepacks/Blues_Better_Monsters_v0.10.zip",
             "MD5": "39995313985f66bc266421d49d249b32",
             "path": "resourcepacks/Blues_Better_Monsters_v0.10.zip"
+          }
+        },
+        {
+          "id": "ComplementaryReimagined_r5.3.zip",
+          "name": "ComplementaryReimagined_r5.3.zip",
+          "type": "File",
+          "artifact": {
+            "size": 446656,
+            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/resourcepacks/ComplementaryReimagined_r5.3.zip",
+            "MD5": "16aed916088bde7a7e4a252e3d7ebcda",
+            "path": "resourcepacks/ComplementaryReimagined_r5.3.zip"
+          }
+        },
+        {
+          "id": "ComplementaryUnbound_r5.3.zip",
+          "name": "ComplementaryUnbound_r5.3.zip",
+          "type": "File",
+          "artifact": {
+            "size": 446661,
+            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/resourcepacks/ComplementaryUnbound_r5.3.zip",
+            "MD5": "50893f00c06b63dfd140dbcac22cc69f",
+            "path": "resourcepacks/ComplementaryUnbound_r5.3.zip"
           }
         }
       ]
