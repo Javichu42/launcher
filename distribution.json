@@ -1053,13 +1053,13 @@
           }
         },
         {
-          "id": "net.mcreator.pigletstructures:piglet_structures:1.445@jar",
+          "id": "net.mcreator.pigletstructures:piglet_structures:1.455@jar",
           "name": "Piglet Structures",
           "type": "ForgeMod",
           "artifact": {
-            "size": 11965373,
-            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/forgemods/required/Piglet_Structures_1.20.1(ver.1.445).jar",
-            "MD5": "44ff0ac50adfe389f234333edc70c12d"
+            "size": 12435844,
+            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/EXCEPCION-1.20.1/forgemods/required/Piglet_Structures_1.20.1(ver.1.455).jar",
+            "MD5": "4f7dc1da9cd611f805dbc9414900f4cc"
           }
         },
         {
