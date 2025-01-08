@@ -1143,16 +1143,6 @@
           }
         },
         {
-          "id": "net.mcreator.stupidweapondeluxe:stupid_weapon_deluxe:2.1.2@jar",
-          "name": "Stupid Weapon Deluxe",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 695410,
-            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/forgemods/required/stupid_weapon_deluxe-2.1.2-forge-1.20.1.jar",
-            "MD5": "7b17b677d5124d4ceca66e4bb0a9a44e"
-          }
-        },
-        {
           "id": "com.tacz.guns:tacz:1.0.3@jar",
           "name": "Timeless & Classics Guns: Zero",
           "type": "ForgeMod",
