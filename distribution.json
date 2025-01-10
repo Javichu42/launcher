@@ -993,16 +993,6 @@
           }
         },
         {
-          "id": "net.mcreator.smarterzombies:smartermobs:1.1.4@jar",
-          "name": "SmarterMobs",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 237943,
-            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/forgemods/required/Mobs%20Brain%20Upgrades%201.1.4.jar",
-            "MD5": "83bdff067b9804eac49b0597f8772264"
-          }
-        },
-        {
           "id": "dev.tr7zw:notenoughanimations:1.9.0@jar",
           "name": "NotEnoughAnimations",
           "type": "ForgeMod",
