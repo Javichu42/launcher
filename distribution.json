@@ -4305,17 +4305,6 @@
           }
         },
         {
-          "id": "MobsBrainUpgrades.toml",
-          "name": "MobsBrainUpgrades.toml",
-          "type": "File",
-          "artifact": {
-            "size": 3939,
-            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/MobsBrainUpgrades.toml",
-            "MD5": "b6c7353fa46619d44d981ddd5e837dd6",
-            "path": "config/MobsBrainUpgrades.toml"
-          }
-        },
-        {
           "id": "notenoughanimations.json",
           "name": "notenoughanimations.json",
           "type": "File",
