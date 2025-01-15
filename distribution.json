@@ -2508,7 +2508,7 @@
           "artifact": {
             "size": 144,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/bettervillage_1.properties",
-            "MD5": "1646421002b36cf568e1f2f91df48cc3",
+            "MD5": "aa691494b0314abbd1066f3de420dcfd",
             "path": "config/bettervillage_1.properties"
           }
         },
@@ -2693,9 +2693,9 @@
           "name": "cpm.json",
           "type": "File",
           "artifact": {
-            "size": 66,
+            "size": 216,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/cpm.json",
-            "MD5": "6df1d358b7a5cbefadced3f4ac410f58",
+            "MD5": "4530370112195970a4a5fdf2171faadb",
             "path": "config/cpm.json"
           }
         },
@@ -2887,17 +2887,6 @@
           }
         },
         {
-          "id": "dawnera-client.toml",
-          "name": "dawnera-client.toml",
-          "type": "File",
-          "artifact": {
-            "size": 184,
-            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/dawnera-client.toml",
-            "MD5": "8354ecb7cb9bc04644f9a6928d3c77e7",
-            "path": "config/dawnera-client.toml"
-          }
-        },
-        {
           "id": "dawnera.toml",
           "name": "dawnera.toml",
           "type": "File",
@@ -2915,7 +2904,7 @@
           "artifact": {
             "size": 427,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/embeddium-fingerprint.json",
-            "MD5": "77f0a9218ed70acb5a7290a7779794fd",
+            "MD5": "436b5b79e31734e6ea0c01ad6f96d934",
             "path": "config/embeddium-fingerprint.json"
           }
         },
@@ -3217,6 +3206,17 @@
           }
         },
         {
+          "id": "pantalla_colorizada.gif",
+          "name": "pantalla_colorizada.gif",
+          "type": "File",
+          "artifact": {
+            "size": 11408658,
+            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/fancymenu/assets/pantalla_colorizada.gif",
+            "MD5": "532023618516e000307482e91f7c5d19",
+            "path": "config/fancymenu/assets/pantalla_colorizada.gif"
+          }
+        },
+        {
           "id": "redes1.png",
           "name": "redes1.png",
           "type": "File",
@@ -3298,9 +3298,9 @@
           "name": "luces_camara_guerra.txt",
           "type": "File",
           "artifact": {
-            "size": 28829,
+            "size": 25534,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/fancymenu/customization/luces_camara_guerra.txt",
-            "MD5": "86f2b315c3c4a93fe31adfcff81e8140",
+            "MD5": "e4ee453b91c25fd2a15a5c3ae87395bf",
             "path": "config/fancymenu/customization/luces_camara_guerra.txt"
           }
         },
@@ -3342,9 +3342,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 1798,
+            "size": 1799,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/fancymenu/options.txt",
-            "MD5": "d8cbe410a25ad2fac1446bcdf4b8a9d8",
+            "MD5": "ae1c47c99a09b9c1b495218b9c344f01",
             "path": "config/fancymenu/options.txt"
           }
         },
@@ -3914,9 +3914,9 @@
           "name": "ingredient-list-mod-sort-order.ini",
           "type": "File",
           "artifact": {
-            "size": 561,
+            "size": 539,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/jei/ingredient-list-mod-sort-order.ini",
-            "MD5": "65dcdf90af24193b82e750205411af82",
+            "MD5": "836ca53980b697d7ac3ce220c896d0dc",
             "path": "config/jei/ingredient-list-mod-sort-order.ini"
           }
         },
@@ -4048,7 +4048,7 @@
           "artifact": {
             "size": 193,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/libraryferret_1.properties",
-            "MD5": "4f25b6aba8c5405cdc9904a3bee4ec98",
+            "MD5": "59b23c2b35c1b6ae80bc7d39a1a0c660",
             "path": "config/libraryferret_1.properties"
           }
         },
@@ -4389,8 +4389,19 @@
           "artifact": {
             "size": 286,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/oculus.properties",
-            "MD5": "62d20e7e56fd637a9339a1faa9f42128",
+            "MD5": "54af265e5435ffd4719bb3a07bbfa6fb",
             "path": "config/oculus.properties"
+          }
+        },
+        {
+          "id": "pcf-common.toml",
+          "name": "pcf-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 267,
+            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/pcf-common.toml",
+            "MD5": "f0c3b075df60155f454ad2b76f246264",
+            "path": "config/pcf-common.toml"
           }
         },
         {
@@ -4543,7 +4554,7 @@
           "artifact": {
             "size": 119944,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/sound_physics_remastered/allowed_sounds.properties",
-            "MD5": "1486c2e115241b675fd789b27729d72a",
+            "MD5": "bc930ccf8c009257c30da0bf71f8903c",
             "path": "config/sound_physics_remastered/allowed_sounds.properties"
           }
         },
@@ -4554,7 +4565,7 @@
           "artifact": {
             "size": 4831,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/sound_physics_remastered/occlusion.properties",
-            "MD5": "ddd8c87c308874d78ccec1f7890e6331",
+            "MD5": "a607ae128b1053fd5f5758d19d1c437f",
             "path": "config/sound_physics_remastered/occlusion.properties"
           }
         },
@@ -4565,7 +4576,7 @@
           "artifact": {
             "size": 4713,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/sound_physics_remastered/reflectivity.properties",
-            "MD5": "b3fcf54374b32720dbc9492fcac5e2e1",
+            "MD5": "254ddf540e3eb68e2cbb3f831ab5ab36",
             "path": "config/sound_physics_remastered/reflectivity.properties"
           }
         },
@@ -20975,9 +20986,9 @@
           "name": "username-cache.json",
           "type": "File",
           "artifact": {
-            "size": 253,
+            "size": 352,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/config/voicechat/username-cache.json",
-            "MD5": "f52d56bf53d0dadee17fadaddc4f6e57",
+            "MD5": "0fc485448b035cc31b9e97d07cdb237d",
             "path": "config/voicechat/username-cache.json"
           }
         },
@@ -21162,10 +21173,21 @@
           "name": "last_world.fmdata",
           "type": "File",
           "artifact": {
-            "size": 84,
+            "size": 88,
             "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/fancymenu_data/last_world.fmdata",
-            "MD5": "06ce5f2f637a388c4e3a53ad5f0ac3a3",
+            "MD5": "7cffe6acd790c4e8a45edae1951a7285",
             "path": "fancymenu_data/last_world.fmdata"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 10459,
+            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/options.txt",
+            "MD5": "ecdaa07fd1f7d5fcd52180fe206a2a6c",
+            "path": "options.txt"
           }
         },
         {
@@ -21191,14 +21213,14 @@
           }
         },
         {
-          "id": "ComplementaryUnbound_r5.3.zip",
-          "name": "ComplementaryUnbound_r5.3.zip",
+          "id": "Hysteria-Shaders-Universal-v1.2.1.zip",
+          "name": "Hysteria-Shaders-Universal-v1.2.1.zip",
           "type": "File",
           "artifact": {
-            "size": 446661,
-            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/resourcepacks/ComplementaryUnbound_r5.3.zip",
-            "MD5": "50893f00c06b63dfd140dbcac22cc69f",
-            "path": "resourcepacks/ComplementaryUnbound_r5.3.zip"
+            "size": 1578052,
+            "url": "https://github.com/Javichu42/repo/raw/refs/heads/main/servers/LCG-1.20.1/files/resourcepacks/Hysteria-Shaders-Universal-v1.2.1.zip",
+            "MD5": "9cd9d2b33532f1774f7465e76b92a4e3",
+            "path": "resourcepacks/Hysteria-Shaders-Universal-v1.2.1.zip"
           }
         }
       ]
